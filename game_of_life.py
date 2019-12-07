@@ -1,13 +1,15 @@
 import tkinter as tk
+from time import sleep
 
-from time import time, sleep
+# For debugging purpose
+from time import time
 prev = time()
-
 def delta(txt):
     global prev
     print(txt)
-    print('deltatime = {}'.format(time() - prev))
+    print('delta = {}'.format(time() - prev))
     prev = time()
+
 
 class Grid:
     """
@@ -30,7 +32,10 @@ class Grid:
         Generate aa grid with empty rectangle
         Also instantiate cells that will be used in the game
         """
-        # Loop in Y then X and draw rectangles
+        # Caching method to avoid method lookup in loop
+        create_rect = self.canvas.create_rectangle
+
+        # Loop in Y
         for grid_y in range(0, self.nbr_cell_height):
             y1 = grid_y * self.cell_size
             y2 = grid_y * self.cell_size + self.cell_size
@@ -41,8 +46,20 @@ class Grid:
                 x2 = grid_x * self.cell_size + self.cell_size
 
                 # Create the rectangle using canvas and store the rectangle id in the cell
-                rect_id = self.canvas.create_rectangle(x1, y1, x2, y2, fill='white')
+                rect_id = create_rect(x1, y1, x2, y2, fill='white')
                 self.cells[grid_y].append(Cell(grid_x, grid_y, self.canvas, rect_id))
+
+    # def clear(self):
+    #     """
+    #     Clear the current grid
+    #     """
+    #     for y, row in enumerate(self.cells):
+    #         for x, cell in enumerate(row):
+    #             # Get the neighbors of a cell, then define the next status
+    #             cell = cells[y][x]
+    #             cell.next_gen = False
+    #             cell.is_alive = False
+    #             cell.draw_cell()
 
     def compute_next_grid(self):
         """
@@ -53,7 +70,6 @@ class Grid:
             for x, cell in enumerate(row):
                 # Get the neighbors of a cell, then define the next status
                 nbr_neighbors = self._get_alive_neighbors(cell)
-                # print('Cell {} has {} neighbors'. format(cell.get_xy(), nbr_neighbors))
                 self.cells[y][x].next_gen = self._apply_rules(cell, nbr_neighbors)
 
     def swap_status(self, tkevent):
@@ -65,8 +81,9 @@ class Grid:
         x, y = self._xy_to_grid_idx(tkevent.x, tkevent.y)
 
         # Change the current status of the cell and draw it
-        self.cells[y][x].is_alive = not self.cells[y][x].is_alive
-        self.cells[y][x].draw_cell()
+        cell = self.cells[y][x]
+        cell.is_alive = not cell.is_alive
+        cell.draw_cell()
 
     def draw_next_gen(self):
         """
@@ -75,8 +92,9 @@ class Grid:
         """
         for y, row in enumerate(self.cells):
             for x, cell in enumerate(row):
-                self.cells[y][x].is_alive = self.cells[y][x].next_gen
-                self.cells[y][x].draw_cell()
+                cell = self.cells[y][x]
+                cell.is_alive = cell.next_gen
+                cell.draw_cell()
 
     def _apply_rules(self, cell, nbr_neighbors):
         """
@@ -84,7 +102,6 @@ class Grid:
         return True if the cell will be alive
         return False if not
         """
-
         # Rules of the game
         # Any live cell with two or three neighbors survives
         if cell.is_alive and nbr_neighbors in [2, 3]:
@@ -110,15 +127,12 @@ class Grid:
         for coordinates in neighbors:
             adjusted_x = cell.grid_x + coordinates[0]
             adjusted_y = cell.grid_y + coordinates[1]
-            # print('Cell {} : looking for cell {}'.format(cell.get_xy(),(adjusted_x, adjusted_y)))
 
             # Try to get the neighbors
             if adjusted_x >= 0 and adjusted_y >= 0:
                 try:
                     neighbor = self.cells[adjusted_y][adjusted_x].is_alive
                     if neighbor:
-                        # print('Cell {} : found an alive nbg in {}'.format((cell.grid_x, cell.grid_y),
-                        #                                                   (adjusted_x, adjusted_y)))
                         nbr_neighbors += 1
                 # We get an error while searching for out of range cells, not a problem
                 except IndexError:
@@ -219,13 +233,17 @@ class Game:
         # Place buttons and link functions to them
         start_button = tk.Button(self.root, text="Start game", command=self.start)
         start_button.pack(side=tk.LEFT)
+
         stop_button = tk.Button(self.root, text="Stop it", command=self.stop)
         stop_button.pack(side=tk.RIGHT)
+
+        # restart_button = tk.Button(self.root, text="Restart", command=self.game_loop)
+        # restart_button.pack(side=tk.BOTTOM)
 
         # For debug purpose only
         # debug_button = tk.Button(self.root, text="Next loop", command=self.game_loop)
         # debug_button.pack(side = tk.BOTTOM)
-        self.idx = 0
+        # self.idx = 0
 
         # Create the grid and generate the visible rectangles
         self.grid = Grid(self.canvas, width, height, cell_size)
@@ -255,12 +273,14 @@ class Game:
         delta('After grid.compute_next_grid()')
         self.grid.draw_next_gen()
         delta('After grid.draw_next_gen')
+
         self.root.after(200, self.game_loop)
         delta('After root.after')
 
-        self.idx += 1
-        if self.idx == 100:
-            self.root.destroy()
+        # Debug only
+        # self.idx += 1
+        # if self.idx == 100:
+        #     self.root.destroy()
 
     def stop(self):
         self.root.destroy()
