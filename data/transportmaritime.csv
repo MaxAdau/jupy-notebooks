@@ -1,0 +1,2501 @@
+date;port;nb_passagers
+2007-04;Santa Teresa;21717
+2007-05;Palau;0
+2007-06;Porto Torres;810
+2007-06;Genes;35313
+2007-06;Golgo Aranci;0
+2007-07;Bastia;446994
+2007-07;Genes;60333
+2007-08;Porto Torres;1679
+2007-10;Propriano;
+2007-10;Porto Torres;
+2007-12;Ajaccio;28016
+2007-12;Livourne;5753
+2007-12;Palau;0
+2008-04;Bastia;129572
+2008-04;Genes;0
+2008-05;Ajaccio;97333
+2008-06;Porto Ferraio;0
+2008-07;L'Ile Rousse;72472
+2008-10;Porto Torres;1431
+2008-10;Golgo Aranci;0
+2008-11;Bastia;52264
+2008-11;Livourne;6417
+2008-12;Genes;0
+2009-01;Genes;0
+2009-04;Marseille;60448
+2009-05;Santa Teresa;29587
+2009-06;Porto-Vecchio;10596
+2009-09;Bonifacio;34527
+2009-09;Golgo Aranci;0
+2009-11;CIVITA VECCHIA;0
+2010-01;Bastia;46807
+2010-02;L'Ile Rousse;1322
+2010-03;CIVITA VECCHIA;0
+2010-04;Bonifacio;17794
+2010-04;Piombino;0
+2010-05;Nice;67876
+2010-07;CIVITA VECCHIA;2720
+2010-09;Bastia;285345
+2010-09;Genes;28262
+2010-09;Palau;0
+2010-10;Piombino;0
+2011-04;Ajaccio;79316
+2011-04;Genes;0
+2003-01;Golgo Aranci;0
+2003-03;Ajaccio;18828
+2003-03;CIVITA VECCHIA;0
+2003-05;Bastia;167857
+2003-06;Golgo Aranci;0
+2003-07;Calvi;57723
+2003-07;Savona;73623
+2003-08;Golgo Aranci;0
+2003-09;Palau;167
+2003-10;Piombino;0
+2003-11;Bastia;38119
+2003-11;Piombino;0
+2004-01;Propriano;1437
+2004-03;Piombino;0
+2004-04;Propriano;4649
+2004-04;Nice;44146
+2004-06;Ajaccio;75993
+2004-06;Savona;36448
+2004-07;Nice;190466
+2004-09;Santa Teresa;36940
+2005-06;L'Ile Rousse;15186
+2005-07;Golgo Aranci;0
+2005-09;Porto-Vecchio;7197
+2005-10;Porto-Vecchio;2087
+2005-11;Porto Torres;194
+2005-12;Bonifacio;5075
+2006-05;Porto Torres;699
+2006-06;Porto Torres;813
+2006-06;Palau;0
+2006-07;Genes;62850
+2006-07;Porto Ferraio;0
+2006-08;Porto Torres;1686
+2006-08;Santa Teresa;56217
+2006-09;Santa Teresa;37205
+2006-10;Golgo Aranci;0
+2006-11;Genes;0
+2011-05;Santa Teresa;28864
+2011-06;Porto Ferraio;0
+2011-08;Golgo Aranci;0
+2011-09;Propriano;6557
+2011-09;Nice;96572
+2011-10;L'Ile Rousse;6453
+2011-11;Palau;0
+2011-12;Savona;2041
+2011-12;Santa Teresa;4934
+2011-12;CIVITA VECCHIA;0
+2012-02;Propriano;1809
+2012-02;Marseille;32578
+2012-02;Porto Ferraio;0
+2012-03;Calvi;0
+2012-05;Piombino;0
+2012-07;Calvi;40622
+2012-08;L'Ile Rousse;148969
+2012-11;Propriano;3338
+2012-12;Nice;11281
+2013-01;Palau;0
+2013-03;Piombino;0
+2003-03;Porto Torres;136
+2003-04;Propriano;4192
+2003-05;Golgo Aranci;0
+2003-06;Genes;28334
+2003-10;Savona;13073
+2003-11;Genes;0
+2003-11;Santa Teresa;6399
+2003-12;Livourne;5016
+2003-12;Porto Ferraio;0
+2004-02;Ajaccio;19575
+2004-04;Bastia;118872
+2004-04;L'Ile Rousse;6069
+2004-05;Porto Torres;240
+2004-08;Ajaccio;205456
+2004-08;Savona;91985
+2004-10;Piombino;0
+2004-11;Calvi;1844
+2004-11;Santa Teresa;6320
+2004-12;Porto-Vecchio;4018
+2004-12;Genes;0
+2005-02;Marseille;31232
+2005-02;Savona;3808
+2005-03;Propriano;1407
+2005-06;Toulon;72670
+2005-07;Bastia;461390
+2005-07;Bonifacio;38087
+2005-07;L'Ile Rousse;38588
+2005-07;Nice;182054
+2005-09;Bastia;209256
+2005-11;Calvi;1501
+2005-12;Santa Teresa;5075
+2006-01;L'Ile Rousse;1014
+2006-02;Genes;0
+2006-04;Ajaccio;64011
+2006-04;Bonifacio;23198
+2006-05;Santa Teresa;29048
+2006-05;Palau;0
+2006-07;Ajaccio;172934
+2006-08;Bonifacio;56217
+2006-09;Ajaccio;99233
+2006-09;Porto Torres;1042
+2006-10;Livourne;15154
+2006-12;Palau;0
+2007-01;Toulon;25710
+2007-01;Porto Ferraio;0
+2007-02;Toulon;27190
+2007-03;Piombino;0
+2007-06;Marseille;83454
+2007-07;Toulon;178412
+2007-07;Porto Ferraio;0
+2007-08;CIVITA VECCHIA;4575
+2007-08;Palau;0
+2007-09;Ajaccio;119517
+2008-02;Ajaccio;26479
+2008-03;CIVITA VECCHIA;0
+2008-04;Marseille;67077
+2008-04;Santa Teresa;16972
+2008-05;CIVITA VECCHIA;0
+2008-08;Bastia;647529
+2008-08;Nice;273313
+2008-08;Santa Teresa;56655
+2008-10;Marseille;53763
+2008-11;Bonifacio;5219
+2009-02;Ajaccio;
+2009-02;Nice;
+2009-04;Toulon;82270
+2009-04;Porto Torres;434
+2009-04;Golgo Aranci;0
+2009-05;Golgo Aranci;0
+2009-06;Nice;91480
+2009-07;Porto-Vecchio;20138
+2009-08;Bonifacio;59025
+2009-08;Toulon;281580
+2009-09;Nice;93476
+2009-09;Porto Ferraio;0
+2009-10;Ajaccio;56755
+2009-11;Piombino;0
+2010-03;Golgo Aranci;0
+2010-04;Toulon;118435
+2010-06;Golgo Aranci;0
+2010-08;Porto-Vecchio;26726
+2010-09;L'Ile Rousse;38228
+2010-09;Porto Ferraio;0
+2010-10;Calvi;8333
+2010-12;Bastia;61647
+2011-01;Nice;10930
+2011-01;Savona;749
+2011-07;Marseille;205600
+2011-08;CIVITA VECCHIA;0
+2011-09;Santa Teresa;35704
+2011-09;Porto Ferraio;0
+2011-10;Genes;0
+2011-10;Golgo Aranci;0
+2011-12;Marseille;44590
+2012-03;Palau;0
+2012-03;Porto Ferraio;0
+2012-04;Savona;13762
+2012-05;Bonifacio;34650
+2012-05;Golgo Aranci;0
+2012-06;Propriano;11156
+2012-11;Golgo Aranci;0
+2013-02;Piombino;0
+2013-03;Propriano;2057
+2013-04;Marseille;66092
+2013-05;Porto Ferraio;0
+2007-03;Golgo Aranci;0
+2007-07;Porto-Vecchio;14683
+2007-08;Piombino;0
+2008-02;Bonifacio;5885
+2008-04;Bonifacio;16972
+2008-05;Nice;65058
+2008-05;Palau;0
+2008-06;Toulon;111556
+2008-06;Savona;37534
+2008-07;Piombino;0
+2008-08;Savona;121684
+2008-09;Piombino;0
+2008-09;Porto Ferraio;0
+2009-01;Propriano;1769
+2009-01;Santa Teresa;4505
+2009-08;Savona;104141
+2009-12;Santa Teresa;5024
+2010-01;Porto-Vecchio;2720
+2010-01;Palau;0
+2010-03;Ajaccio;25452
+2010-03;Porto Ferraio;0
+2010-05;Bastia;210392
+2010-06;Santa Teresa;28916
+2010-06;Palau;0
+2010-07;Calvi;46936
+2010-07;Porto-Vecchio;21684
+2010-09;Toulon;153076
+2010-09;Porto Torres;1425
+2010-11;Calvi;1482
+2010-12;Palau;0
+2011-01;CIVITA VECCHIA;0
+2011-03;Bonifacio;5999
+2011-03;Toulon;41032
+2011-04;Nice;47981
+2011-04;Porto Ferraio;0
+2003-01;Propriano;1593
+2003-02;Savona;3664
+2003-02;Porto Ferraio;0
+2003-03;Nice;10379
+2003-04;Marseille;74819
+2003-07;Propriano;26465
+2003-10;Porto Ferraio;0
+2003-12;L'Ile Rousse;946
+2003-12;Savona;2317
+2004-04;Porto Torres;259
+2004-04;Porto Ferraio;0
+2004-06;Bonifacio;35514
+2004-06;Propriano;8630
+2004-07;Propriano;25122
+2004-07;Genes;49194
+2004-08;Palau;1443
+2004-09;Piombino;0
+2004-10;Golgo Aranci;0
+2004-11;Toulon;20453
+2004-11;Savona;2693
+2004-12;Marseille;41725
+2004-12;CIVITA VECCHIA;0
+2005-01;Livourne;4447
+2005-01;Porto Ferraio;0
+2005-05;Genes;4298
+2005-06;Propriano;8139
+2005-06;Genes;26265
+2005-08;Savona;103556
+2005-09;Palau;221
+2005-10;Livourne;13096
+2006-04;Propriano;4589
+2006-04;Toulon;57996
+2006-06;Golgo Aranci;0
+2006-07;Santa Teresa;40406
+2006-07;Piombino;0
+2006-08;Livourne;187323
+2006-08;Piombino;0
+2006-09;Toulon;89284
+2006-09;CIVITA VECCHIA;356
+2006-09;Porto Ferraio;0
+2006-10;L'Ile Rousse;3804
+2006-10;Genes;0
+2006-11;Toulon;25907
+2006-12;Porto-Vecchio;4430
+2007-01;Nice;10713
+2007-02;Palau;0
+2011-05;Nice;56402
+2011-06;Propriano;9117
+2011-08;Ajaccio;290201
+2011-08;Porto-Vecchio;39463
+2011-08;Piombino;0
+2011-09;Bastia;270218
+2011-09;Genes;23826
+2011-10;Marseille;64721
+2011-11;L'Ile Rousse;3525
+2011-11;Genes;0
+2011-12;Porto-Vecchio;5294
+2012-01;Nice;8192
+2012-03;Propriano;2080
+2012-03;Livourne;8047
+2012-03;Savona;2928
+2012-04;Bonifacio;21773
+2012-05;Porto-Vecchio;6808
+2012-06;Savona;43306
+2012-08;Marseille;268617
+2012-09;Livourne;73135
+2012-11;Bastia;60273
+2012-12;Marseille;42298
+2013-01;Golgo Aranci;0
+2013-03;Nice;10601
+2013-03;Golgo Aranci;0
+2013-05;Nice;59533
+2007-04;Ajaccio;76344
+2007-05;Marseille;68612
+2007-05;Porto Ferraio;0
+2007-09;Calvi;25036
+2007-09;Propriano;7587
+2007-09;Livourne;74428
+2007-10;Savona;
+2007-10;CIVITA VECCHIA;
+2007-11;Calvi;2437
+2007-11;Palau;0
+2007-12;Bastia;59739
+2007-12;Marseille;40550
+2008-01;Toulon;25883
+2008-02;Porto-Vecchio;3070
+2008-03;Porto-Vecchio;2792
+2008-03;Toulon;27917
+2008-04;Ajaccio;74014
+2008-06;Nice;91470
+2008-09;Golgo Aranci;0
+2008-10;Bonifacio;15248
+2008-12;L'Ile Rousse;1529
+2008-12;Savona;2520
+2009-01;Piombino;0
+2009-02;Toulon;
+2009-03;Bonifacio;5455
+2009-03;Propriano;1697
+2009-04;Santa Teresa;16987
+2009-09;Propriano;5621
+2009-09;Livourne;76194
+2009-09;Genes;31049
+2009-11;Palau;0
+2009-12;Porto Torres;334
+2010-02;Livourne;5848
+2010-03;Livourne;10948
+2010-06;Porto Ferraio;0
+2010-07;Palau;0
+2010-08;Savona;102196
+2010-08;Santa Teresa;54308
+2010-08;CIVITA VECCHIA;4261
+2010-11;Livourne;8903
+2010-11;Piombino;0
+2010-12;L'Ile Rousse;2895
+2011-01;Genes;0
+2011-02;Calvi;1682
+2011-02;Porto Torres;104
+2011-04;CIVITA VECCHIA;0
+2003-01;Nice;9432
+2003-02;Bonifacio;4521
+2003-02;Nice;7622
+2003-03;Genes;0
+2003-03;Santa Teresa;6640
+2003-04;Toulon;42101
+2003-05;CIVITA VECCHIA;0
+2003-06;CIVITA VECCHIA;0
+2003-07;Bastia;426946
+2003-07;Livourne;135778
+2003-08;Propriano;35646
+2003-09;Bastia;216883
+2003-09;Bonifacio;40088
+2003-09;L'Ile Rousse;20890
+2003-09;Porto-Vecchio;8365
+2003-09;Piombino;0
+2003-11;Calvi;3221
+2003-11;L'Ile Rousse;2067
+2003-12;Ajaccio;23244
+2004-04;Livourne;28149
+2004-05;Golgo Aranci;0
+2004-08;Toulon;145489
+2004-08;Piombino;521
+2004-09;Bastia;213484
+2004-09;Bonifacio;36940
+2004-10;Toulon;37224
+2004-10;Livourne;14826
+2004-10;CIVITA VECCHIA;0
+2004-11;Nice;11122
+2004-12;Bastia;51732
+2005-01;Palau;0
+2005-03;Porto-Vecchio;2381
+2005-03;Marseille;26314
+2005-03;CIVITA VECCHIA;0
+2005-04;Porto Ferraio;0
+2005-10;Genes;0
+2005-11;Marseille;28300
+2006-01;Porto Ferraio;0
+2006-02;Porto Ferraio;0
+2006-06;Calvi;20126
+2006-07;Bastia;461510
+2006-07;Bonifacio;40406
+2006-10;Savona;10535
+2006-11;Porto Torres;191
+2006-12;Calvi;1103
+2006-12;L'Ile Rousse;1688
+2011-07;Bonifacio;32741
+2011-07;Toulon;223544
+2011-08;L'Ile Rousse;138519
+2011-10;Calvi;7448
+2011-10;CIVITA VECCHIA;0
+2011-10;Piombino;0
+2011-11;Porto-Vecchio;3481
+2011-11;Livourne;7199
+2011-11;CIVITA VECCHIA;0
+2012-02;Savona;3042
+2012-04;Nice;37753
+2012-06;Marseille;95647
+2012-06;Golgo Aranci;0
+2012-07;Bastia;433820
+2012-08;Livourne;164827
+2012-09;Ajaccio;143893
+2012-09;Santa Teresa;36003
+2012-11;L'Ile Rousse;3988
+2013-02;Ajaccio;22716
+2013-04;Bastia;112162
+2013-04;Porto Ferraio;0
+2007-04;Bonifacio;21717
+2007-07;Calvi;55672
+2007-07;Santa Teresa;37445
+2007-08;Bastia;574465
+2007-08;Propriano;35738
+2007-10;Nice;
+2007-12;Bonifacio;5079
+2007-12;Porto-Vecchio;4855
+2007-12;Nice;15785
+2008-01;Piombino;0
+2008-04;Propriano;4079
+2008-05;Marseille;72852
+2008-06;Porto Torres;756
+2008-06;Palau;0
+2008-07;Savona;90008
+2008-08;Livourne;211507
+2008-09;Genes;30239
+2008-09;Palau;0
+2008-11;CIVITA VECCHIA;0
+2009-02;Propriano;
+2009-02;Marseille;
+2009-03;Bastia;51572
+2009-03;Santa Teresa;5455
+2009-04;Nice;50893
+2009-04;Savona;7323
+2009-05;Genes;9719
+2009-06;Ajaccio;103659
+2009-06;Bastia;288733
+2009-06;Porto Torres;838
+2009-06;CIVITA VECCHIA;0
+2009-06;Piombino;0
+2009-07;Piombino;1986
+2009-10;Porto-Vecchio;5547
+2009-11;Porto Torres;127
+2009-12;Livourne;9666
+2010-02;Porto Torres;78
+2010-03;Bonifacio;6688
+2010-04;Propriano;4516
+2010-04;Porto Ferraio;0
+2010-06;Calvi;23790
+2010-06;Piombino;0
+2010-09;Propriano;6108
+2010-09;Savona;38682
+2010-11;Ajaccio;25173
+2010-11;Bastia;53402
+2003-04;Santa Teresa;27002
+2003-08;Santa Teresa;71508
+2003-09;Marseille;94227
+2003-09;Toulon;43795
+2003-10;Golgo Aranci;0
+2003-11;Livourne;4647
+2003-11;Porto Ferraio;0
+2003-12;Golgo Aranci;0
+2004-03;Bastia;38487
+2004-03;Porto-Vecchio;2862
+2004-03;Savona;2164
+2004-05;L'Ile Rousse;13506
+2004-07;Porto Ferraio;0
+2004-08;Golgo Aranci;0
+2004-10;Marseille;50782
+2005-03;Porto Torres;103
+2005-04;Nice;55751
+2005-05;Calvi;12662
+2005-05;CIVITA VECCHIA;0
+2005-08;Porto-Vecchio;17682
+2005-08;Livourne;188735
+2005-09;Calvi;24893
+2005-10;Porto Torres;287
+2005-10;Savona;13074
+2005-11;Savona;2128
+2005-12;L'Ile Rousse;1409
+2005-12;Toulon;31232
+2006-01;Toulon;21384
+2006-01;CIVITA VECCHIA;0
+2006-03;Porto Ferraio;0
+2006-04;Marseille;70015
+2006-05;Propriano;4684
+2007-01;Propriano;1596
+2007-02;CIVITA VECCHIA;0
+2011-05;L'Ile Rousse;18555
+2011-06;Ajaccio;131801
+2011-07;Calvi;37067
+2011-07;Savona;83614
+2011-10;Ajaccio;69305
+2011-11;Nice;10200
+2011-12;Propriano;2492
+2012-01;Propriano;2098
+2012-07;Genes;24677
+2012-10;Propriano;4414
+2013-02;Calvi;0
+2013-02;Genes;0
+2007-06;Livourne;75527
+2007-07;L'Ile Rousse;72690
+2007-08;Santa Teresa;54588
+2007-09;Piombino;0
+2007-12;Porto Torres;319
+2008-01;Bastia;46339
+2008-01;Bonifacio;4938
+2008-03;Propriano;1199
+2008-10;Ajaccio;55253
+2008-12;Ajaccio;28651
+2008-12;Porto Ferraio;0
+2009-01;Toulon;25377
+2009-01;Palau;0
+2009-02;Porto-Vecchio;
+2009-02;CIVITA VECCHIA;
+2009-02;Golgo Aranci;
+2009-02;Porto Ferraio;
+2009-03;Calvi;964
+2009-10;Propriano;4100
+2009-11;Livourne;8362
+2009-12;Savona;699
+2010-02;Marseille;23875
+2010-04;Porto-Vecchio;6300
+2010-05;Toulon;139722
+2010-05;Piombino;0
+2010-07;Bastia;532381
+2010-09;Calvi;15320
+2010-11;L'Ile Rousse;3179
+2010-12;Propriano;2120
+2011-02;Livourne;6524
+2011-02;CIVITA VECCHIA;0
+2011-02;Golgo Aranci;0
+2011-03;Porto Ferraio;0
+2003-03;Porto Ferraio;0
+2003-04;Bonifacio;27002
+2003-04;Piombino;0
+2003-05;Porto Ferraio;0
+2003-08;Ajaccio;180609
+2003-10;Bastia;89935
+2003-10;Porto-Vecchio;5786
+2003-10;Genes;0
+2003-10;Santa Teresa;12925
+2003-11;Porto-Vecchio;3163
+2004-01;Nice;8816
+2004-01;Toulon;14195
+2004-02;Savona;3581
+2004-04;Ajaccio;55603
+2004-04;CIVITA VECCHIA;0
+2004-07;Santa Teresa;42510
+2004-09;Porto Torres;229
+2004-10;Propriano;3872
+2005-01;Ajaccio;19752
+2005-01;Bonifacio;5183
+2005-01;Golgo Aranci;0
+2005-02;Ajaccio;21104
+2005-02;Golgo Aranci;0
+2005-10;Palau;0
+2005-12;Porto Torres;242
+2006-01;Palau;0
+2006-03;Ajaccio;16591
+2006-03;L'Ile Rousse;1060
+2006-03;Porto Torres;97
+2006-04;Porto Torres;1210
+2006-05;Savona;16876
+2006-07;Porto-Vecchio;16477
+2006-11;Porto Ferraio;0
+2007-02;Calvi;795
+2011-05;Porto-Vecchio;8085
+2011-06;Calvi;31708
+2011-07;Porto Ferraio;0
+2011-08;Toulon;260566
+2011-11;Piombino;0
+2012-01;Porto Torres;226
+2012-02;Bastia;45825
+2012-05;Marseille;65010
+2012-09;Marseille;116332
+2012-11;Savona;2882
+2012-12;CIVITA VECCHIA;0
+2013-02;Porto Ferraio;0
+2013-03;Genes;0
+2003-01;Ajaccio;17512
+2003-02;Genes;0
+2003-04;Livourne;35879
+2003-04;Porto Ferraio;0
+2003-07;Porto-Vecchio;16136
+2003-08;Toulon;105959
+2003-10;Palau;0
+2003-11;Palau;0
+2004-02;Piombino;0
+2004-03;Toulon;16737
+2004-04;Bonifacio;20518
+2004-05;Propriano;8616
+2004-06;Piombino;0
+2004-08;Bastia;581295
+2004-10;Ajaccio;43843
+2004-10;Calvi;6986
+2004-10;Porto Ferraio;0
+2004-11;Palau;0
+2004-11;Porto Ferraio;0
+2005-03;Nice;9964
+2005-03;Genes;0
+2005-03;Savona;3932
+2005-03;Piombino;0
+2005-03;Golgo Aranci;0
+2005-05;Livourne;45557
+2005-06;Porto-Vecchio;8929
+2005-06;Livourne;63900
+2005-07;Santa Teresa;38087
+2005-10;Nice;27130
+2005-12;Porto Ferraio;0
+2006-02;Ajaccio;22355
+2006-02;Calvi;849
+2006-02;Toulon;29019
+2006-02;Porto Torres;140
+2006-02;Piombino;0
+2006-03;Toulon;18526
+2006-03;Genes;0
+2006-03;Palau;0
+2006-04;CIVITA VECCHIA;0
+2006-04;Piombino;0
+2006-05;Toulon;75440
+2006-07;Marseille;162953
+2006-08;Golgo Aranci;0
+2006-09;L'Ile Rousse;37455
+2006-10;Ajaccio;42824
+2006-10;Porto-Vecchio;5168
+2007-01;Bastia;46772
+2007-04;Livourne;32826
+2007-04;Golgo Aranci;0
+2007-05;Golgo Aranci;0
+2007-06;Calvi;27480
+2007-08;L'Ile Rousse;108780
+2007-08;Porto-Vecchio;18150
+2007-10;Livourne;
+2008-01;Nice;11276
+2008-01;Savona;1015
+2008-02;Calvi;270
+2008-03;Livourne;10092
+2008-04;Piombino;0
+2008-09;Marseille;81857
+2008-12;Palau;0
+2009-01;Calvi;831
+2009-03;Golgo Aranci;0
+2009-04;Bastia;143540
+2009-07;Bastia;506175
+2009-07;Savona;85783
+2009-07;Porto Ferraio;0
+2009-09;Porto-Vecchio;13735
+2009-12;Genes;0
+2010-01;Santa Teresa;4105
+2010-04;Ajaccio;85950
+2010-04;L'Ile Rousse;21352
+2010-06;Savona;42139
+2010-11;Bonifacio;5562
+2010-11;Genes;0
+2010-11;CIVITA VECCHIA;0
+2011-01;Porto-Vecchio;3676
+2011-01;Marseille;33230
+2011-03;Ajaccio;24513
+2011-05;Golgo Aranci;0
+2011-07;Porto-Vecchio;28839
+2011-07;Propriano;25515
+2011-07;Piombino;0
+2011-09;Calvi;19140
+2011-09;Toulon;140644
+2011-09;Livourne;75053
+2011-10;Bonifacio;13493
+2011-11;Golgo Aranci;0
+2011-12;L'Ile Rousse;3256
+2012-07;Porto Torres;774
+2012-08;Porto Torres;1079
+2012-10;Calvi;5056
+2012-10;Savona;10788
+2012-11;Santa Teresa;5835
+2012-12;Bonifacio;5120
+2013-02;Porto-Vecchio;3618
+2013-02;Palau;0
+2013-03;Bastia;54725
+2013-03;Palau;0
+2013-04;Toulon;71786
+2013-04;Livourne;20767
+2013-04;Piombino;0
+2013-05;Piombino;0
+2007-05;Porto Torres;856
+2007-06;Piombino;0
+2007-06;Porto Ferraio;0
+2007-09;Bonifacio;34486
+2007-09;Genes;25569
+2007-09;Savona;38987
+2007-10;Bastia;
+2007-10;Toulon;
+2007-11;Savona;3338
+2007-12;L'Ile Rousse;1765
+2008-02;Porto Torres;231
+2008-02;CIVITA VECCHIA;0
+2008-02;Piombino;0
+2008-04;CIVITA VECCHIA;0
+2008-05;Livourne;53730
+2008-06;Bonifacio;30800
+2008-08;Calvi;73192
+2008-09;Porto-Vecchio;10157
+2008-11;Propriano;2554
+2009-01;Porto Torres;177
+2009-01;CIVITA VECCHIA;0
+2009-04;Bonifacio;16897
+2009-04;L'Ile Rousse;3792
+2009-04;Palau;0
+2009-05;Livourne;51130
+2009-07;L'Ile Rousse;84007
+2009-08;Nice;318193
+2009-08;Genes;92703
+2009-10;Porto Torres;368
+2009-10;CIVITA VECCHIA;0
+2010-01;Propriano;1394
+2010-01;Porto Torres;117
+2010-02;Porto Ferraio;0
+2010-03;Marseille;28256
+2010-03;Santa Teresa;6688
+2010-04;Calvi;5973
+2010-05;Ajaccio;103385
+2010-05;Calvi;6723
+2010-05;Savona;20033
+2010-06;CIVITA VECCHIA;0
+2010-08;Bastia;691295
+2010-10;Porto Torres;328
+2010-10;Porto Ferraio;0
+2010-11;Toulon;37563
+2010-11;Porto Torres;223
+2010-12;Porto-Vecchio;4710
+2010-12;Golgo Aranci;0
+2011-01;Bonifacio;4660
+2011-01;Piombino;0
+2011-03;Calvi;1642
+2011-03;Marseille;18546
+2003-01;Porto Ferraio;0
+2003-02;L'Ile Rousse;1326
+2003-04;Savona;19930
+2003-05;Calvi;13728
+2003-05;Nice;74202
+2003-05;Genes;4078
+2003-05;Savona;23792
+2003-06;Porto Ferraio;0
+2003-10;Bonifacio;12925
+2003-10;Calvi;4529
+2003-11;Nice;10035
+2003-12;Bonifacio;5789
+2003-12;Toulon;19670
+2004-01;Savona;2482
+2004-04;Marseille;73745
+2004-04;Piombino;0
+2004-05;Nice;63384
+2004-10;Porto Torres;157
+2005-02;Livourne;3060
+2005-02;Porto Ferraio;0
+2005-03;Livourne;8220
+2005-05;Santa Teresa;28839
+2005-06;Marseille;74821
+2005-06;CIVITA VECCHIA;0
+2005-07;Savona;87345
+2005-09;Propriano;7610
+2005-12;Nice;11535
+2006-01;Bastia;39750
+2006-02;Bonifacio;5869
+2006-02;Palau;0
+2006-03;CIVITA VECCHIA;0
+2006-09;Calvi;20536
+2006-10;Bastia;96841
+2006-10;Porto Ferraio;0
+2011-05;Genes;2798
+2011-06;Porto Torres;1375
+2011-06;Genes;31714
+2011-07;Santa Teresa;32741
+2011-10;Porto Torres;887
+2011-11;Bonifacio;5817
+2011-12;Palau;0
+2012-02;Porto-Vecchio;2992
+2012-05;L'Ile Rousse;18358
+2012-06;L'Ile Rousse;31411
+2012-06;Porto Torres;749
+2012-06;Genes;8032
+2012-08;Piombino;0
+2012-09;Toulon;145624
+2012-10;Ajaccio;54795
+2012-12;Savona;2072
+2012-12;Porto Ferraio;0
+2013-01;Calvi;0
+2013-01;L'Ile Rousse;2761
+2013-03;Bonifacio;6548
+2013-04;Nice;36473
+2013-04;Savona;8206
+2013-05;Ajaccio;94122
+2007-03;Porto-Vecchio;3464
+2007-03;Palau;0
+2007-06;CIVITA VECCHIA;231
+2007-06;Palau;0
+2007-07;Propriano;30862
+2007-07;Piombino;0
+2007-07;Golgo Aranci;0
+2007-09;Toulon;114488
+2007-09;Porto Ferraio;0
+2008-02;Porto Ferraio;0
+2008-04;Golgo Aranci;0
+2008-06;Genes;35106
+2008-08;Bonifacio;56655
+2008-09;Toulon;111613
+2008-09;CIVITA VECCHIA;249
+2008-10;L'Ile Rousse;12019
+2008-12;Calvi;820
+2008-12;Nice;6665
+2009-02;Porto Torres;
+2009-03;Livourne;7410
+2009-04;Livourne;31892
+2009-05;Porto Ferraio;0
+2009-11;L'Ile Rousse;3856
+2009-12;Nice;12783
+2010-02;Palau;0
+2010-03;Piombino;0
+2010-03;Palau;0
+2010-04;Marseille;58438
+2010-08;Marseille;180624
+2010-10;Bonifacio;13205
+2010-10;CIVITA VECCHIA;0
+2011-02;Palau;0
+2011-03;Bastia;50870
+2011-03;Savona;895
+2011-03;Palau;0
+2011-04;Golgo Aranci;0
+2011-04;Palau;0
+2003-01;Porto-Vecchio;2214
+2003-04;Porto-Vecchio;5792
+2003-05;Marseille;78479
+2003-05;Piombino;0
+2003-06;Bonifacio;38010
+2003-06;L'Ile Rousse;21618
+2003-06;Porto Torres;234
+2003-08;L'Ile Rousse;83515
+2003-08;Piombino;0
+2003-10;Propriano;3242
+2003-10;Livourne;16144
+2004-02;Marseille;31669
+2004-02;Nice;10735
+2004-05;Savona;20621
+2004-05;CIVITA VECCHIA;0
+2004-06;Golgo Aranci;0
+2004-08;L'Ile Rousse;61658
+2004-08;Propriano;27566
+2004-08;Porto Torres;481
+2004-08;Genes;71043
+2004-10;Bonifacio;13363
+2004-12;Santa Teresa;4657
+2005-01;Genes;1980
+2005-03;Bonifacio;10422
+2005-05;Porto Torres;572
+2005-06;Nice;82545
+2005-08;Santa Teresa;63425
+2005-08;CIVITA VECCHIA;0
+2005-09;Porto Ferraio;0
+2005-11;Bastia;44683
+2005-11;Toulon;25708
+2006-03;Calvi;731
+2006-04;Bastia;135494
+2006-04;Porto-Vecchio;6609
+2006-04;Livourne;33886
+2006-05;Porto Ferraio;648
+2006-07;CIVITA VECCHIA;914
+2006-08;Bastia;582140
+2006-09;Marseille;85587
+2006-10;Nice;32627
+2006-10;Santa Teresa;12943
+2006-11;Calvi;2490
+2007-01;Livourne;5276
+2007-02;Piombino;0
+2011-06;L'Ile Rousse;33729
+2011-10;Toulon;80747
+2011-10;Porto Ferraio;0
+2011-11;Propriano;2112
+2011-12;Bonifacio;4934
+2011-12;Porto Torres;435
+2012-01;Marseille;34041
+2012-04;Ajaccio;77535
+2012-06;Ajaccio;116996
+2012-07;Bonifacio;36422
+2012-08;Nice;289586
+2012-10;Nice;24963
+2012-12;Calvi;0
+2012-12;Porto-Vecchio;4641
+2013-01;Propriano;2848
+2013-02;Savona;3113
+2013-02;Santa Teresa;5002
+2013-03;Ajaccio;24774
+2013-03;Marseille;35863
+2013-03;Porto Ferraio;0
+2013-04;CIVITA VECCHIA;0
+2013-05;Porto Torres;1457
+2013-05;Palau;0
+2007-04;Savona;11423
+2007-06;Ajaccio;105454
+2007-06;L'Ile Rousse;20745
+2007-07;Porto Torres;555
+2007-08;Porto Ferraio;0
+2007-09;Bastia;256646
+2007-09;Nice;101007
+2007-11;Livourne;6152
+2007-12;Savona;1398
+2008-02;Golgo Aranci;0
+2008-04;Toulon;76895
+2008-05;Piombino;234
+2008-06;Bastia;257833
+2008-06;Porto-Vecchio;10112
+2008-06;Livourne;74031
+2008-06;Golgo Aranci;101
+2008-08;Marseille;212428
+2008-08;Toulon;235556
+2008-09;L'Ile Rousse;21865
+2008-09;Livourne;69324
+2008-11;Piombino;0
+2009-02;Livourne;
+2009-04;Ajaccio;67333
+2009-07;Propriano;24708
+2009-09;Bastia;274534
+2009-10;L'Ile Rousse;4628
+2009-10;Savona;10236
+2009-11;Calvi;472
+2010-02;Piombino;0
+2010-04;Bastia;147423
+2010-04;Livourne;30892
+2010-04;Savona;7167
+2010-05;Genes;9773
+2010-09;Bonifacio;35313
+2010-10;Porto-Vecchio;4327
+2010-12;Nice;10985
+2011-02;Genes;0
+2011-03;Livourne;9727
+2011-04;Piombino;0
+2003-01;Bonifacio;4593
+2003-01;Piombino;0
+2003-02;Calvi;2187
+2003-04;Porto Torres;203
+2003-05;Santa Teresa;32865
+2003-11;Porto Torres;199
+2003-12;Calvi;2149
+2003-12;Santa Teresa;5789
+2004-01;Genes;0
+2004-02;Bonifacio;5290
+2004-02;Porto Ferraio;0
+2004-03;CIVITA VECCHIA;0
+2004-04;Savona;12642
+2004-04;Santa Teresa;20518
+2004-06;Porto Torres;219
+2004-06;Genes;27308
+2004-08;Santa Teresa;66883
+2004-10;Santa Teresa;13363
+2004-11;Ajaccio;19105
+2004-11;L'Ile Rousse;1065
+2004-11;Livourne;4308
+2004-11;Genes;0
+2004-12;Toulon;23284
+2005-03;Ajaccio;15453
+2005-04;Bastia;102510
+2005-04;Calvi;19282
+2005-05;Ajaccio;59273
+2005-09;Livourne;66428
+2005-09;Savona;31526
+2005-10;Toulon;56444
+2005-12;Ajaccio;26891
+2005-12;Porto-Vecchio;3673
+2006-02;CIVITA VECCHIA;0
+2006-03;Santa Teresa;6266
+2006-05;Bastia;156345
+2006-05;Genes;5648
+2006-06;Santa Teresa;32947
+2006-09;Bonifacio;37205
+2006-10;Palau;0
+2006-11;Bonifacio;6909
+2006-11;Santa Teresa;6909
+2006-12;Livourne;6053
+2007-01;CIVITA VECCHIA;0
+2011-06;Santa Teresa;32417
+2011-06;Piombino;0
+2011-06;Golgo Aranci;0
+2011-08;Porto Ferraio;0
+2011-12;Calvi;904
+2012-01;Porto-Vecchio;2555
+2012-01;CIVITA VECCHIA;0
+2012-02;Livourne;5827
+2012-06;Porto Ferraio;0
+2012-07;Propriano;26112
+2012-07;Piombino;0
+2012-08;Toulon;290826
+2012-08;Porto Ferraio;0
+2012-09;Porto Ferraio;0
+2012-11;Bonifacio;5835
+2012-12;L'Ile Rousse;3758
+2012-12;Piombino;0
+2012-12;Golgo Aranci;0
+2013-01;Marseille;33958
+2013-05;Toulon;113557
+2007-03;Bastia;48829
+2007-06;Toulon;98472
+2007-07;Savona;82294
+2007-08;Savona;103196
+2007-11;Ajaccio;27950
+2007-11;Santa Teresa;6641
+2008-04;Calvi;4642
+2008-08;CIVITA VECCHIA;4677
+2008-08;Golgo Aranci;0
+2008-11;Toulon;35023
+2009-02;Genes;
+2009-05;Porto-Vecchio;7506
+2009-05;Piombino;0
+2009-06;Calvi;31156
+2009-06;Toulon;108641
+2009-07;Palau;0
+2009-08;Propriano;27360
+2009-08;Palau;0
+2009-09;Calvi;17801
+2009-10;Livourne;24835
+2009-11;Genes;0
+2009-12;Piombino;0
+2010-01;Bonifacio;4105
+2010-02;Bastia;43817
+2010-02;Golgo Aranci;0
+2010-03;Genes;0
+2010-04;Golgo Aranci;0
+2010-05;Porto Ferraio;0
+2010-06;Bastia;292145
+2010-06;L'Ile Rousse;30573
+2010-07;Golgo Aranci;0
+2010-09;Piombino;1427
+2010-10;Propriano;2612
+2010-10;Livourne;24493
+2010-10;Genes;0
+2010-12;Piombino;0
+2011-03;Porto Torres;70
+2003-01;Bastia;35419
+2003-02;Porto-Vecchio;2087
+2003-02;Propriano;1739
+2003-02;Santa Teresa;4521
+2003-05;Livourne;46571
+2003-06;Nice;109294
+2003-07;Santa Teresa;45346
+2003-08;CIVITA VECCHIA;0
+2003-09;CIVITA VECCHIA;0
+2004-03;Santa Teresa;6617
+2004-06;Bastia;228618
+2004-06;Nice;79943
+2004-07;Livourne;129126
+2004-07;Golgo Aranci;0
+2004-08;Livourne;204384
+2004-09;Calvi;22174
+2004-10;Bastia;90536
+2004-12;Bonifacio;4657
+2005-01;Porto Torres;68
+2005-01;Savona;5183
+2005-02;Propriano;1474
+2005-02;CIVITA VECCHIA;0
+2005-03;Bastia;45819
+2005-03;Toulon;19519
+2005-04;Genes;0
+2005-05;L'Ile Rousse;10060
+2005-06;Ajaccio;82645
+2005-07;Porto Ferraio;0
+2005-09;Piombino;0
+2005-11;Ajaccio;19078
+2005-12;Propriano;1653
+2005-12;Piombino;0
+2006-01;Golgo Aranci;0
+2006-02;Marseille;29370
+2006-02;Livourne;3684
+2006-02;Golgo Aranci;0
+2006-03;Propriano;1590
+2006-03;Golgo Aranci;0
+2006-04;L'Ile Rousse;10124
+2006-04;Savona;10094
+2006-05;Porto-Vecchio;7062
+2006-06;Toulon;81786
+2006-07;Nice;224367
+2006-07;Toulon;150085
+2006-11;Bastia;51905
+2006-11;Golgo Aranci;0
+2006-12;Nice;14030
+2006-12;Piombino;0
+2007-02;Porto-Vecchio;2750
+2011-05;Propriano;6681
+2011-05;Toulon;102074
+2011-06;Porto-Vecchio;13523
+2011-09;Savona;40939
+2012-01;Ajaccio;23833
+2012-01;Genes;0
+2012-01;Palau;0
+2012-02;CIVITA VECCHIA;0
+2012-03;Genes;0
+2012-04;Porto-Vecchio;7105
+2012-04;Toulon;84328
+2012-04;Livourne;23370
+2012-05;Propriano;6636
+2012-07;Toulon;224922
+2012-12;Bastia;59455
+2013-01;Nice;8547
+2013-02;Bonifacio;5002
+2013-02;Porto Torres;240
+2013-02;Golgo Aranci;0
+2013-04;Calvi;3623
+2013-05;L'Ile Rousse;28626
+2013-05;Genes;0
+2003-02;Palau;0
+2003-03;Porto-Vecchio;2550
+2003-04;Ajaccio;60405
+2003-06;Marseille;93146
+2003-06;Livourne;87998
+2003-08;Savona;93836
+2003-12;Porto-Vecchio;3679
+2004-01;Bastia;36957
+2004-02;Santa Teresa;5290
+2004-02;Golgo Aranci;0
+2004-03;Porto Torres;250
+2004-03;Livourne;3966
+2004-03;Golgo Aranci;0
+2004-05;Bastia;158099
+2004-05;Calvi;15082
+2004-06;L'Ile Rousse;16936
+2004-06;CIVITA VECCHIA;0
+2004-07;Marseille;159467
+2004-07;CIVITA VECCHIA;0
+2004-12;Livourne;4666
+2005-01;Calvi;1827
+2005-01;Toulon;18542
+2005-04;Santa Teresa;17916
+2005-05;Golgo Aranci;0
+2005-06;Calvi;23584
+2005-07;Marseille;165392
+2005-07;Palau;640
+2005-08;Nice;211308
+2005-08;Palau;1454
+2005-09;CIVITA VECCHIA;0
+2005-11;L'Ile Rousse;3664
+2005-11;Livourne;4886
+2005-11;Genes;0
+2006-03;Savona;1357
+2006-06;Ajaccio;89784
+2006-09;Bastia;237680
+2006-09;Golgo Aranci;0
+2006-09;Palau;347
+2006-11;L'Ile Rousse;1040
+2007-01;Piombino;0
+2007-02;Genes;0
+2007-02;Savona;3013
+2007-04;Porto Torres;822
+2007-05;Savona;19069
+2007-12;Porto Ferraio;0
+2008-01;Porto Torres;270
+2008-01;Palau;0
+2008-02;Genes;0
+2008-03;Nice;12132
+2008-03;Savona;3559
+2008-04;Livourne;24383
+2008-08;Propriano;32305
+2008-09;Ajaccio;110788
+2008-10;Livourne;17801
+2009-01;Porto Ferraio;0
+2009-02;Bonifacio;
+2009-02;L'Ile Rousse;
+2009-03;Genes;0
+2009-05;Porto Torres;1480
+2009-05;Savona;23228
+2009-07;Ajaccio;231072
+2009-07;Santa Teresa;36207
+2009-08;Calvi;62177
+2009-08;Porto Ferraio;0
+2009-09;Palau;0
+2009-10;Calvi;7054
+2009-11;Golgo Aranci;0
+2009-12;Bastia;60490
+2009-12;Porto-Vecchio;4346
+2010-01;Savona;225
+2010-04;Nice;56018
+2010-07;Porto Ferraio;0
+2010-08;Porto Ferraio;0
+2010-09;Santa Teresa;35313
+2010-10;L'Ile Rousse;15571
+2010-10;Nice;30833
+2010-10;Santa Teresa;13205
+2011-01;Ajaccio;24529
+2011-01;Santa Teresa;4660
+2011-01;Golgo Aranci;0
+2011-05;Porto Torres;896
+2011-06;Savona;48956
+2011-06;CIVITA VECCHIA;0
+2011-07;Genes;56661
+2011-07;Golgo Aranci;0
+2011-08;Nice;264448
+2011-08;Livourne;170181
+2011-11;Calvi;960
+2011-11;Santa Teresa;5817
+2012-01;Porto Ferraio;0
+2012-02;Toulon;27385
+2012-03;Santa Teresa;6733
+2012-04;Propriano;7085
+2012-06;Livourne;67250
+2012-06;Santa Teresa;32217
+2012-07;Porto-Vecchio;33852
+2012-07;Marseille;197241
+2012-10;Bonifacio;14006
+2012-10;Porto-Vecchio;6608
+2012-11;Ajaccio;33933
+2012-11;Calvi;1211
+2012-12;Livourne;6904
+2013-01;Piombino;0
+2013-03;Livourne;8273
+2013-04;Propriano;7515
+2013-05;Savona;23135
+2013-05;CIVITA VECCHIA;0
+2007-03;Savona;2624
+2007-04;CIVITA VECCHIA;0
+2007-06;Bastia;247875
+2007-06;Nice;94040
+2007-08;Golgo Aranci;0
+2007-09;Porto-Vecchio;10331
+2007-12;Propriano;2145
+2008-01;Calvi;1459
+2008-01;L'Ile Rousse;1206
+2008-02;Santa Teresa;5885
+2008-03;Bonifacio;6969
+2008-03;Santa Teresa;6969
+2008-03;Palau;0
+2008-04;Porto Ferraio;0
+2008-05;Bastia;186327
+2008-05;Bonifacio;31865
+2008-06;Propriano;7424
+2008-08;Porto-Vecchio;24517
+2008-09;Bonifacio;36621
+2009-03;Ajaccio;21673
+2009-03;Porto-Vecchio;3177
+2009-04;Porto Ferraio;0
+2009-05;Nice;69069
+2009-06;Savona;45731
+2009-07;Marseille;165313
+2009-07;Toulon;221300
+2009-07;Golgo Aranci;0
+2009-10;Genes;0
+2009-10;Piombino;0
+2009-10;Palau;0
+2009-10;Porto Ferraio;0
+2010-02;Ajaccio;21160
+2010-02;Nice;9446
+2010-05;Porto-Vecchio;7918
+2010-11;Santa Teresa;5562
+2011-01;Toulon;29005
+2011-02;Bonifacio;5001
+2011-02;Piombino;0
+2011-04;Bastia;140030
+2011-04;Calvi;5407
+2003-01;Livourne;4605
+2003-03;Bastia;36249
+2003-03;Savona;2570
+2003-03;Palau;0
+2003-04;Bastia;135611
+2003-04;L'Ile Rousse;8213
+2003-04;Palau;0
+2003-08;Bastia;603929
+2003-09;Nice;93428
+2003-12;Porto Torres;119
+2004-01;Porto Ferraio;0
+2004-02;Porto Torres;96
+2004-05;Genes;3830
+2004-06;Marseille;75394
+2004-06;Toulon;61615
+2004-09;Porto Ferraio;0
+2004-10;Genes;0
+2004-11;Porto-Vecchio;3228
+2005-04;L'Ile Rousse;3038
+2005-04;Piombino;0
+2005-06;Savona;31886
+2005-07;Porto Torres;593
+2005-07;Livourne;126490
+2005-09;Ajaccio;86901
+2005-09;L'Ile Rousse;13437
+2005-09;Golgo Aranci;0
+2005-11;Propriano;1619
+2006-01;Porto Torres;156
+2006-03;Livourne;4735
+2006-04;Porto Ferraio;2418
+2006-05;Nice;64637
+2006-06;Porto-Vecchio;9018
+2006-08;CIVITA VECCHIA;2024
+2006-09;Propriano;8458
+2006-09;Savona;34322
+2007-02;L'Ile Rousse;1217
+2007-02;Nice;9622
+2007-02;Golgo Aranci;0
+2011-05;Marseille;78424
+2011-05;Palau;0
+2011-09;Piombino;0
+2011-11;Ajaccio;25394
+2011-12;Ajaccio;32428
+2011-12;Livourne;7782
+2012-05;CIVITA VECCHIA;0
+2012-06;Bastia;236913
+2012-06;Bonifacio;32217
+2012-09;Bastia;267006
+2012-09;Bonifacio;36003
+2012-09;Porto Torres;1188
+2012-09;Golgo Aranci;0
+2012-10;Bastia;104767
+2012-10;Golgo Aranci;0
+2013-02;Nice;7482
+2013-04;Golgo Aranci;0
+2013-05;Bastia;176120
+2007-05;L'Ile Rousse;18049
+2007-08;Toulon;217127
+2007-09;CIVITA VECCHIA;825
+2007-11;Porto-Vecchio;4435
+2007-11;Genes;0
+2008-01;Ajaccio;20618
+2008-04;Porto-Vecchio;6880
+2008-06;Santa Teresa;30800
+2008-07;Bastia;470797
+2008-07;Palau;0
+2008-08;L'Ile Rousse;126512
+2008-08;Palau;0
+2008-09;Bastia;252682
+2008-09;Porto Torres;1470
+2008-09;Savona;37746
+2008-10;Propriano;4150
+2008-12;Propriano;2274
+2009-03;Porto Torres;189
+2009-03;CIVITA VECCHIA;0
+2009-08;L'Ile Rousse;128687
+2009-08;Santa Teresa;59025
+2009-08;Piombino;13144
+2009-09;Toulon;121526
+2009-12;L'Ile Rousse;2874
+2009-12;Golgo Aranci;0
+2010-02;Genes;0
+2010-03;L'Ile Rousse;1656
+2010-03;Porto-Vecchio;2603
+2010-08;Calvi;60405
+2010-12;Bonifacio;4908
+2011-03;Golgo Aranci;0
+2003-02;Ajaccio;19169
+2003-02;Piombino;0
+2003-03;Toulon;12947
+2003-06;Calvi;39211
+2003-07;Nice;210008
+2003-08;Bonifacio;71508
+2003-09;Livourne;63666
+2003-10;Marseille;64171
+2003-10;Porto Torres;407
+2003-11;Bonifacio;6399
+2003-12;Genes;0
+2003-12;Piombino;0
+2004-01;Porto Torres;39
+2004-02;L'Ile Rousse;1613
+2004-02;Propriano;912
+2004-02;Livourne;2948
+2004-05;Ajaccio;63835
+2004-06;Santa Teresa;35514
+2004-07;Bonifacio;42510
+2004-08;Marseille;196622
+2004-10;Savona;13209
+2004-11;Propriano;1705
+2005-01;Santa Teresa;0
+2005-02;Porto-Vecchio;2267
+2005-03;Santa Teresa;10422
+2005-05;Bastia;151360
+2005-05;Toulon;64332
+2005-06;Piombino;0
+2005-08;Genes;78614
+2005-11;Bonifacio;5086
+2005-11;Palau;0
+2006-02;Bastia;47178
+2006-06;Propriano;9284
+2006-06;CIVITA VECCHIA;122
+2006-11;Savona;2697
+2011-05;Savona;14002
+2011-06;Nice;91395
+2011-07;CIVITA VECCHIA;0
+2011-08;Porto Torres;1268
+2011-10;Propriano;3254
+2011-12;Golgo Aranci;0
+2012-03;Nice;9373
+2012-04;Golgo Aranci;0
+2012-06;Palau;0
+2012-07;L'Ile Rousse;107689
+2012-10;Livourne;20984
+2012-12;Porto Torres;228
+2013-01;CIVITA VECCHIA;0
+2013-03;Savona;4673
+2013-05;Calvi;6720
+2013-05;Livourne;40264
+2013-05;Santa Teresa;30962
+2007-03;Calvi;2468
+2007-04;Propriano;5343
+2007-05;Ajaccio;84203
+2007-05;Livourne;42942
+2007-05;Santa Teresa;30258
+2007-07;Livourne;126756
+2007-07;CIVITA VECCHIA;2550
+2007-09;Golgo Aranci;0
+2007-11;Nice;16731
+2008-02;Bastia;52322
+2008-03;Calvi;1209
+2008-04;Nice;52318
+2008-04;Palau;0
+2008-05;L'Ile Rousse;14813
+2008-05;Porto Ferraio;0
+2008-06;Ajaccio;104143
+2008-07;Genes;69597
+2008-07;CIVITA VECCHIA;1874
+2008-10;Calvi;308
+2008-10;Piombino;0
+2008-11;Nice;12513
+2008-12;Porto-Vecchio;4360
+2009-07;Calvi;61860
+2009-07;Livourne;147712
+2009-08;Porto-Vecchio;23445
+2009-11;Bonifacio;5705
+2009-12;Bonifacio;5024
+2009-12;Marseille;38515
+2010-04;Genes;0
+2010-04;Santa Teresa;17794
+2010-05;L'Ile Rousse;29373
+2010-05;Porto Torres;1337
+2010-06;Nice;93591
+2010-07;Nice;253497
+2010-07;Savona;82468
+2010-08;Toulon;318036
+2010-10;Ajaccio;58433
+2010-11;Propriano;1858
+2010-11;Savona;366
+2010-12;Marseille;40219
+2011-02;Ajaccio;22607
+2011-02;Porto-Vecchio;0
+2011-03;Propriano;1694
+2011-03;CIVITA VECCHIA;0
+2003-01;Calvi;2319
+2003-01;Savona;1233
+2003-02;Livourne;3654
+2003-06;Bastia;263843
+2003-06;Toulon;55337
+2003-07;Genes;43982
+2003-07;Porto Ferraio;0
+2003-08;Calvi;66962
+2003-08;Porto-Vecchio;17434
+2003-08;Genes;72827
+2003-10;L'Ile Rousse;4226
+2003-12;Nice;10344
+2003-12;Palau;0
+2004-01;Porto-Vecchio;3228
+2004-01;CIVITA VECCHIA;0
+2004-05;Marseille;77302
+2004-08;Bonifacio;66883
+2004-08;Porto Ferraio;0
+2004-09;L'Ile Rousse;7908
+2004-12;Porto Torres;119
+2005-03;Palau;0
+2005-03;Porto Ferraio;0
+2005-05;Nice;53573
+2005-07;Genes;56831
+2005-07;CIVITA VECCHIA;0
+2005-08;Porto Ferraio;0
+2005-10;CIVITA VECCHIA;0
+2005-11;CIVITA VECCHIA;0
+2005-12;CIVITA VECCHIA;0
+2006-01;Marseille;28423
+2006-01;Livourne;4667
+2006-02;Santa Teresa;5869
+2006-04;Nice;55473
+2006-05;Bonifacio;29048
+2006-05;L'Ile Rousse;19287
+2006-07;Golgo Aranci;0
+2006-08;Genes;83441
+2006-12;Golgo Aranci;0
+2007-02;Ajaccio;23316
+2007-02;Bastia;44535
+2011-05;Calvi;5120
+2011-07;Livourne;128245
+2011-09;Palau;0
+2011-10;Savona;11917
+2011-11;Savona;2172
+2012-01;L'Ile Rousse;2203
+2012-03;Golgo Aranci;0
+2012-04;Piombino;0
+2012-05;Savona;21380
+2012-08;Bastia;572399
+2012-08;Porto-Vecchio;43550
+2012-09;Calvi;24286
+2012-09;Palau;0
+2012-12;Propriano;2707
+2013-04;Ajaccio;62370
+2013-04;Bonifacio;17904
+2013-05;Propriano;8314
+2007-04;Marseille;70545
+2007-04;Porto Ferraio;0
+2007-10;Golgo Aranci;
+2008-01;Porto-Vecchio;2938
+2008-01;CIVITA VECCHIA;0
+2008-06;L'Ile Rousse;21076
+2008-06;Marseille;79577
+2008-07;Bonifacio;41156
+2008-07;Propriano;27128
+2008-08;Ajaccio;251732
+2008-10;Savona;11990
+2008-11;Porto Torres;296
+2008-12;Porto Torres;287
+2008-12;Livourne;6494
+2008-12;CIVITA VECCHIA;0
+2009-02;Savona;
+2009-02;Piombino;
+2009-03;Marseille;30788
+2009-03;Piombino;0
+2009-04;Porto-Vecchio;6199
+2009-04;CIVITA VECCHIA;0
+2009-05;Ajaccio;91921
+2009-05;Bonifacio;29587
+2009-08;Golgo Aranci;0
+2009-09;Ajaccio;106871
+2009-09;Marseille;85582
+2009-09;Savona;38694
+2009-11;Bastia;51722
+2009-11;Porto-Vecchio;3542
+2009-11;Propriano;1736
+2009-11;Marseille;31614
+2009-11;Santa Teresa;5705
+2010-01;Calvi;1792
+2010-01;Toulon;32276
+2010-01;Porto Ferraio;0
+2010-03;Nice;9160
+2010-05;Propriano;5323
+2010-05;Marseille;71376
+2010-06;Bonifacio;28916
+2010-06;Propriano;7281
+2010-06;Genes;40146
+2010-07;Livourne;145370
+2010-08;Livourne;208500
+2010-10;Toulon;87178
+2010-10;Savona;13432
+2010-11;Golgo Aranci;0
+2010-11;Porto Ferraio;0
+2011-04;Propriano;4340
+2011-04;Savona;9742
+2003-01;Toulon;14404
+2003-02;Toulon;16518
+2003-03;Bonifacio;6640
+2003-03;Livourne;4043
+2003-03;Piombino;0
+2003-05;Bonifacio;32865
+2003-07;Bonifacio;45346
+2003-08;Porto Ferraio;0
+2003-09;Propriano;10327
+2003-11;Golgo Aranci;0
+2004-01;Calvi;1805
+2004-01;Marseille;35224
+2004-01;Piombino;0
+2004-02;CIVITA VECCHIA;0
+2004-03;Nice;9010
+2004-05;Porto-Vecchio;6571
+2004-05;Palau;0
+2004-09;Genes;17967
+2004-10;L'Ile Rousse;4444
+2004-12;Calvi;2190
+2005-01;Nice;8288
+2005-04;Propriano;2734
+2005-05;Porto-Vecchio;5374
+2005-05;Marseille;55763
+2005-06;Santa Teresa;32417
+2005-09;Marseille;64021
+2005-09;Genes;20372
+2005-09;Santa Teresa;32791
+2005-10;L'Ile Rousse;6083
+2005-11;Porto-Vecchio;3024
+2005-11;Santa Teresa;5086
+2005-12;Bastia;55260
+2006-01;Ajaccio;18825
+2006-03;Nice;8068
+2006-07;L'Ile Rousse;97654
+2006-07;Livourne;131534
+2006-09;Livourne;71558
+2006-12;Marseille;41183
+2007-01;Santa Teresa;5085
+2007-02;Porto Ferraio;0
+2011-05;Ajaccio;98021
+2011-05;Livourne;36273
+2011-05;Porto Ferraio;0
+2011-06;Palau;0
+2011-07;Porto Torres;825
+2011-08;Bonifacio;52040
+2011-08;Palau;0
+2011-09;Marseille;103483
+2011-12;Piombino;0
+2012-02;Nice;6991
+2012-03;Bastia;55121
+2012-03;Porto-Vecchio;3059
+2012-05;Livourne;36431
+2012-09;Propriano;10913
+2012-10;CIVITA VECCHIA;0
+2013-01;Porto Torres;286
+2013-04;Palau;0
+2003-01;Santa Teresa;4593
+2003-01;CIVITA VECCHIA;0
+2003-06;Savona;51247
+2003-07;Ajaccio;143400
+2003-07;Marseille;177498
+2003-09;Calvi;21829
+2003-09;Porto Torres;272
+2003-09;Porto Ferraio;0
+2003-10;Toulon;32120
+2003-11;Savona;3096
+2004-01;Livourne;3794
+2004-01;Santa Teresa;5085
+2004-02;Genes;0
+2004-04;Genes;0
+2004-04;Golgo Aranci;0
+2004-07;Calvi;41193
+2004-07;Savona;74904
+2004-07;Palau;804
+2004-09;Toulon;84321
+2004-09;Livourne;66183
+2004-09;CIVITA VECCHIA;0
+2004-10;Palau;0
+2004-11;Porto Torres;192
+2004-12;L'Ile Rousse;1026
+2004-12;Palau;0
+2005-01;Bastia;38676
+2005-01;Propriano;987
+2005-01;CIVITA VECCHIA;0
+2005-05;Palau;0
+2005-06;Golgo Aranci;0
+2005-06;Porto Ferraio;0
+2005-07;Porto-Vecchio;16853
+2005-09;Porto Torres;600
+2005-10;Bastia;58894
+2005-10;Piombino;0
+2006-02;Porto-Vecchio;2142
+2006-05;Ajaccio;77256
+2006-09;Nice;104656
+2006-10;Porto Torres;1142
+2007-01;Ajaccio;22506
+2007-01;Calvi;1205
+2007-01;L'Ile Rousse;1391
+2007-01;Porto Torres;92
+2007-04;Nice;51056
+2007-05;Calvi;1851
+2007-05;Toulon;87701
+2007-07;Palau;0
+2007-08;Calvi;64531
+2007-10;Calvi;
+2007-12;Santa Teresa;5079
+2008-01;Livourne;5173
+2008-01;Golgo Aranci;0
+2008-02;Marseille;33481
+2008-02;Palau;0
+2008-03;Porto Torres;126
+2008-05;Golgo Aranci;19
+2008-07;Calvi;61635
+2008-07;Porto-Vecchio;17848
+2008-07;Livourne;130112
+2008-08;Porto Torres;1291
+2008-08;Porto Ferraio;0
+2008-10;Toulon;64031
+2008-11;Savona;1080
+2008-11;Palau;0
+2008-11;Porto Ferraio;0
+2009-01;Golgo Aranci;0
+2009-03;Toulon;32814
+2009-04;Calvi;7706
+2009-06;Golgo Aranci;0
+2009-07;Bonifacio;36207
+2009-08;Bastia;713031
+2009-08;Livourne;249266
+2009-10;Golgo Aranci;0
+2009-11;Nice;13415
+2009-12;Porto Ferraio;0
+2010-01;Piombino;0
+2010-02;Porto-Vecchio;2408
+2010-04;Palau;0
+2010-05;CIVITA VECCHIA;0
+2010-07;Bonifacio;35296
+2010-07;Propriano;20102
+2010-08;Bonifacio;54308
+2010-09;Porto-Vecchio;10195
+2010-09;CIVITA VECCHIA;513
+2010-10;Marseille;42434
+2011-02;L'Ile Rousse;0
+2011-04;Porto-Vecchio;7350
+2011-07;Bastia;483994
+2011-09;Porto Torres;1685
+2011-11;Porto Ferraio;0
+2011-12;Bastia;60301
+2012-01;Golgo Aranci;0
+2012-02;Golgo Aranci;0
+2012-03;Porto Torres;190
+2012-04;Porto Ferraio;0
+2012-05;Nice;61854
+2012-06;Calvi;24778
+2012-06;Toulon;132937
+2012-07;Ajaccio;227420
+2012-07;Santa Teresa;36422
+2012-07;CIVITA VECCHIA;0
+2012-08;Genes;30646
+2012-08;Santa Teresa;49827
+2012-09;Nice;115798
+2012-09;Genes;1989
+2012-10;Toulon;68259
+2012-10;Porto Torres;503
+2012-11;Piombino;0
+2012-12;Genes;0
+2012-12;Palau;0
+2013-04;L'Ile Rousse;11353
+2007-03;Livourne;5903
+2007-03;Genes;0
+2007-03;CIVITA VECCHIA;0
+2007-03;Porto Ferraio;0
+2007-05;Nice;56620
+2007-08;Bonifacio;54588
+2007-09;Porto Torres;920
+2007-10;Bonifacio;
+2007-10;Piombino;
+2007-12;Genes;0
+2008-04;Savona;9694
+2009-01;Porto-Vecchio;3043
+2009-01;Marseille;32477
+2009-02;Palau;
+2009-03;L'Ile Rousse;1148
+2009-03;Nice;7626
+2009-04;Propriano;4691
+2009-05;L'Ile Rousse;12974
+2009-07;Porto Torres;490
+2009-08;CIVITA VECCHIA;0
+2009-09;L'Ile Rousse;30648
+2009-12;Toulon;42423
+2010-02;Toulon;34125
+2010-02;Santa Teresa;4503
+2010-03;Bastia;52248
+2010-04;CIVITA VECCHIA;0
+2010-07;Piombino;3555
+2010-08;Porto Torres;864
+2010-08;Golgo Aranci;0
+2010-08;Palau;0
+2010-11;Nice;11259
+2011-03;Genes;0
+2011-04;Santa Teresa;19350
+2003-02;Bastia;38273
+2003-02;CIVITA VECCHIA;0
+2003-04;Genes;0
+2003-05;Propriano;7091
+2003-08;Nice;272336
+2003-09;Genes;21190
+2003-10;CIVITA VECCHIA;0
+2003-11;Marseille;34893
+2004-02;Bastia;39926
+2004-03;Calvi;2037
+2004-05;Livourne;49260
+2004-05;Piombino;0
+2004-05;Porto Ferraio;0
+2004-09;Propriano;6858
+2004-09;Golgo Aranci;0
+2004-10;Nice;38185
+2004-11;Golgo Aranci;0
+2005-02;Toulon;23897
+2005-02;Piombino;0
+2005-03;Calvi;1756
+2005-03;L'Ile Rousse;1236
+2005-04;Bonifacio;17916
+2005-05;Savona;18942
+2005-07;Ajaccio;177338
+2005-11;Golgo Aranci;0
+2005-12;Genes;0
+2006-01;Santa Teresa;4723
+2006-02;Propriano;1343
+2006-02;Nice;9511
+2006-03;Marseille;26718
+2006-05;Calvi;10086
+2006-06;Porto Ferraio;0
+2006-08;Propriano;32115
+2006-08;Marseille;195644
+2006-08;Porto Ferraio;0
+2006-10;Propriano;3821
+2006-11;Livourne;4839
+2006-11;Palau;0
+2006-12;Propriano;2381
+2007-01;Golgo Aranci;0
+2007-02;Bonifacio;5348
+2007-02;Marseille;30148
+2011-05;Piombino;0
+2011-07;Ajaccio;244379
+2011-07;Nice;226639
+2011-07;Palau;0
+2011-08;Propriano;30986
+2011-09;Golgo Aranci;0
+2011-10;Bastia;124503
+2011-10;Santa Teresa;13493
+2011-11;Bastia;49279
+2011-11;Marseille;35071
+2011-12;Genes;0
+2012-01;Bonifacio;4556
+2012-01;Savona;1291
+2012-02;L'Ile Rousse;2221
+2012-03;CIVITA VECCHIA;0
+2012-04;L'Ile Rousse;14854
+2012-05;Calvi;16301
+2012-08;Propriano;38245
+2012-10;Marseille;56450
+2012-11;Porto Ferraio;0
+2013-02;Livourne;5312
+2013-03;Porto-Vecchio;3608
+2013-03;Toulon;28232
+2007-04;Calvi;2585
+2007-04;Toulon;81342
+2007-04;Piombino;0
+2007-05;CIVITA VECCHIA;0
+2007-10;Genes;
+2007-11;Porto Torres;251
+2007-11;CIVITA VECCHIA;0
+2007-11;Golgo Aranci;0
+2008-01;Porto Ferraio;0
+2008-02;Propriano;1942
+2008-02;Livourne;5178
+2008-03;Golgo Aranci;0
+2008-05;Savona;23056
+2008-06;Calvi;30749
+2008-07;Santa Teresa;41156
+2008-09;Propriano;6328
+2008-10;Palau;0
+2008-11;Ajaccio;25647
+2008-12;Bonifacio;5106
+2008-12;Golgo Aranci;0
+2009-01;Nice;8018
+2009-02;Bastia;
+2009-02;Santa Teresa;
+2009-03;Porto Ferraio;0
+2009-06;Palau;0
+2009-07;Nice;232698
+2010-01;Marseille;28524
+2010-01;Livourne;7752
+2010-02;Savona;1925
+2010-03;Calvi;1116
+2010-06;Porto-Vecchio;7644
+2010-06;Marseille;78803
+2010-07;Toulon;259478
+2010-09;Marseille;73258
+2010-09;Nice;95277
+2010-10;Golgo Aranci;423
+2010-12;Toulon;43914
+2010-12;Genes;0
+2010-12;Santa Teresa;4908
+2010-12;CIVITA VECCHIA;0
+2010-12;Porto Ferraio;0
+2011-01;Palau;0
+2011-01;Porto Ferraio;0
+2011-02;Nice;12226
+2011-04;Toulon;90365
+2003-01;Porto Torres;80
+2003-01;Genes;0
+2003-02;Porto Torres;130
+2003-07;Piombino;0
+2003-08;Palau;1639
+2003-10;Ajaccio;45168
+2004-03;Genes;0
+2004-04;Calvi;9502
+2004-04;Porto-Vecchio;7000
+2004-06;Porto-Vecchio;6469
+2004-07;Ajaccio;159292
+2004-07;Toulon;128488
+2004-07;Porto Torres;269
+2004-07;Piombino;0
+2004-08;CIVITA VECCHIA;0
+2004-10;Porto-Vecchio;4702
+2004-11;Bonifacio;6320
+2004-11;Marseille;30704
+2005-04;CIVITA VECCHIA;0
+2005-04;Golgo Aranci;0
+2005-10;Propriano;1750
+2005-11;Porto Ferraio;0
+2006-01;Bonifacio;4723
+2006-01;Piombino;0
+2006-03;Porto-Vecchio;2300
+2006-04;Santa Teresa;23198
+2006-04;Golgo Aranci;0
+2006-05;CIVITA VECCHIA;5648
+2006-10;Marseille;52805
+2006-11;CIVITA VECCHIA;0
+2011-05;Bonifacio;28864
+2011-05;CIVITA VECCHIA;0
+2011-12;Nice;11020
+2011-12;Porto Ferraio;0
+2012-01;Santa Teresa;4556
+2012-03;Piombino;0
+2012-04;CIVITA VECCHIA;0
+2012-05;Porto Torres;989
+2012-06;CIVITA VECCHIA;0
+2012-07;Savona;79860
+2012-07;Palau;0
+2012-08;Ajaccio;295477
+2012-08;Palau;0
+2012-09;L'Ile Rousse;42470
+2012-09;Porto-Vecchio;13450
+2012-10;Palau;0
+2012-11;Nice;12782
+2012-11;Toulon;40638
+2012-11;Palau;0
+2013-01;Livourne;6055
+2013-01;Savona;1646
+2013-01;Santa Teresa;4587
+2013-05;Marseille;84456
+2007-03;Propriano;2175
+2007-04;L'Ile Rousse;11678
+2007-05;Propriano;4259
+2007-06;Porto-Vecchio;9546
+2007-08;Ajaccio;229714
+2007-09;Santa Teresa;34486
+2007-10;Ajaccio;
+2007-10;Porto-Vecchio;
+2007-10;Marseille;
+2007-11;Toulon;34735
+2008-01;Marseille;31088
+2008-03;Bastia;53917
+2008-03;Marseille;28803
+2008-03;Genes;0
+2008-03;Porto Ferraio;0
+2008-05;Porto-Vecchio;7799
+2008-05;Genes;6130
+2008-07;Ajaccio;182394
+2008-10;CIVITA VECCHIA;0
+2008-11;Genes;0
+2008-11;Santa Teresa;5219
+2008-12;Marseille;40969
+2008-12;Santa Teresa;5106
+2009-03;Palau;0
+2009-04;Genes;0
+2009-05;Propriano;6207
+2009-08;Ajaccio;312209
+2009-08;Marseille;207304
+2009-11;Ajaccio;27401
+2009-12;Calvi;1697
+2010-03;Savona;1006
+2010-06;Porto Torres;809
+2010-07;Porto Torres;432
+2010-07;Genes;73176
+2010-08;Propriano;28909
+2010-09;Golgo Aranci;0
+2010-11;Palau;0
+2010-12;Livourne;8526
+2011-01;Bastia;46989
+2011-01;Livourne;7038
+2011-02;Bastia;48774
+2011-03;L'Ile Rousse;1192
+2011-03;Santa Teresa;5999
+2011-04;Livourne;34280
+2003-01;L'Ile Rousse;1249
+2003-01;Marseille;30552
+2003-03;L'Ile Rousse;1703
+2003-03;Marseille;33765
+2003-04;Calvi;10885
+2003-04;Nice;52166
+2003-06;Santa Teresa;38010
+2003-06;Palau;108
+2003-07;Porto Torres;476
+2003-09;Ajaccio;75810
+2003-09;Golgo Aranci;0
+2003-11;Propriano;2190
+2004-01;Golgo Aranci;0
+2004-01;Palau;0
+2004-02;Palau;0
+2004-03;L'Ile Rousse;709
+2004-03;Marseille;30387
+2004-03;Palau;0
+2004-03;Porto Ferraio;0
+2004-04;Palau;0
+2004-08;Nice;235948
+2004-09;Ajaccio;71092
+2004-11;Bastia;42525
+2004-11;CIVITA VECCHIA;0
+2004-11;Piombino;0
+2005-02;Nice;10353
+2005-05;Propriano;4308
+2005-05;Porto Ferraio;0
+2005-06;Porto Torres;779
+2005-07;Piombino;0
+2005-08;Ajaccio;204740
+2005-10;Ajaccio;60488
+2005-10;Calvi;4592
+2006-02;L'Ile Rousse;1097
+2006-02;Savona;3240
+2006-05;Livourne;36548
+2006-09;Porto-Vecchio;9641
+2006-09;Genes;25851
+2006-11;Piombino;0
+2006-12;Genes;0
+2006-12;Savona;1477
+2007-02;Livourne;3855
+2011-05;Bastia;154407
+2011-06;Bastia;275595
+2011-06;Livourne;79773
+2011-09;Porto-Vecchio;12452
+2011-10;Porto-Vecchio;7288
+2011-10;Livourne;24924
+2012-01;Calvi;542
+2012-02;Ajaccio;23144
+2012-03;Bonifacio;6733
+2012-05;Bastia;165265
+2012-05;Porto Ferraio;0
+2012-06;Nice;86340
+2012-08;Savona;104377
+2012-08;CIVITA VECCHIA;0
+2012-10;Genes;0
+2012-11;Porto-Vecchio;4458
+2012-12;Ajaccio;30247
+2013-01;Toulon;27901
+2013-02;Bastia;45594
+2007-03;Marseille;34520
+2007-03;Nice;12234
+2007-03;Santa Teresa;6660
+2007-04;Bastia;145332
+2007-04;Palau;0
+2007-05;Genes;5233
+2007-05;Piombino;0
+2007-07;Bonifacio;37445
+2007-11;Bastia;56371
+2007-11;Bonifacio;6641
+2008-03;L'Ile Rousse;1775
+2008-03;Piombino;225
+2008-04;Porto Torres;695
+2008-05;Santa Teresa;31865
+2008-06;CIVITA VECCHIA;550
+2008-07;Porto Ferraio;0
+2008-09;Calvi;25834
+2008-10;Bastia;105123
+2008-10;Porto Ferraio;0
+2008-12;Piombino;0
+2009-01;Ajaccio;20860
+2009-04;Piombino;0
+2009-05;Bastia;206548
+2009-06;Marseille;91130
+2009-07;Genes;72678
+2009-07;CIVITA VECCHIA;0
+2009-10;Marseille;45608
+2009-10;Toulon;73355
+2010-01;Ajaccio;24803
+2010-01;L'Ile Rousse;1230
+2010-01;CIVITA VECCHIA;0
+2010-05;Bonifacio;29528
+2010-05;Golgo Aranci;0
+2010-06;Ajaccio;114643
+2010-07;L'Ile Rousse;110280
+2010-12;Savona;634
+2011-01;Porto Torres;156
+2003-03;Golgo Aranci;0
+2003-04;CIVITA VECCHIA;0
+2003-04;Golgo Aranci;0
+2003-07;L'Ile Rousse;59723
+2003-08;Marseille;220047
+2003-11;Ajaccio;18255
+2003-12;Propriano;1998
+2004-02;Toulon;17434
+2004-05;Bonifacio;31261
+2004-06;Palau;0
+2004-08;Porto-Vecchio;17800
+2004-09;Palau;74
+2004-12;Propriano;1008
+2005-02;Porto Torres;84
+2005-04;Ajaccio;46534
+2005-04;Marseille;29617
+2005-04;Porto Torres;78
+2005-07;Propriano;26384
+2005-08;Golgo Aranci;0
+2005-09;Bonifacio;32791
+2005-09;Nice;84146
+2005-11;Nice;12353
+2005-11;Piombino;0
+2006-01;Calvi;1200
+2006-01;Propriano;1219
+2006-01;Savona;936
+2006-03;Bonifacio;6266
+2006-04;Genes;0
+2006-05;Golgo Aranci;0
+2006-06;L'Ile Rousse;29607
+2006-06;Piombino;0
+2006-07;Calvi;43587
+2006-08;Calvi;50895
+2006-08;Toulon;169239
+2006-11;Porto-Vecchio;3838
+2007-01;Marseille;33697
+2007-01;Genes;0
+2011-06;Bonifacio;32417
+2011-07;L'Ile Rousse;105334
+2012-01;Bastia;47206
+2012-01;Piombino;0
+2012-03;Ajaccio;24894
+2012-04;Santa Teresa;21773
+2012-04;Palau;0
+2012-11;Porto Torres;406
+2012-12;Toulon;38025
+2013-01;Porto-Vecchio;3765
+2013-02;CIVITA VECCHIA;0
+2013-04;Genes;0
+2003-05;Porto-Vecchio;5676
+2003-05;Toulon;46325
+2003-05;Porto Torres;254
+2003-05;Palau;0
+2003-06;Propriano;9793
+2003-07;CIVITA VECCHIA;0
+2003-07;Palau;927
+2003-08;Porto Torres;704
+2003-09;Savona;37359
+2003-10;Nice;26971
+2003-12;Marseille;40288
+2004-03;Propriano;1766
+2004-04;Toulon;42754
+2004-05;Toulon;51072
+2004-05;Santa Teresa;31261
+2004-09;Marseille;42960
+2004-09;Nice;77328
+2005-01;L'Ile Rousse;1059
+2005-01;Porto-Vecchio;2373
+2005-01;Marseille;31349
+2005-02;Bastia;44351
+2005-02;Calvi;2493
+2005-02;L'Ile Rousse;745
+2005-04;Porto-Vecchio;2345
+2005-04;Livourne;20800
+2005-04;Savona;9014
+2005-07;Toulon;157295
+2005-08;L'Ile Rousse;49420
+2005-08;Toulon;172555
+2005-10;Porto Ferraio;0
+2005-12;Palau;0
+2006-03;Piombino;0
+2006-04;Palau;0
+2006-08;Ajaccio;183620
+2006-08;Porto-Vecchio;18686
+2006-08;Palau;2399
+2006-10;Bonifacio;12943
+2006-10;Calvi;5854
+2006-11;Ajaccio;24177
+2006-12;Bonifacio;6047
+2007-01;Bonifacio;5085
+2007-02;Porto Torres;125
+2007-03;Ajaccio;24080
+2007-05;Bastia;165574
+2007-05;Bonifacio;30258
+2007-06;Santa Teresa;32019
+2007-08;Livourne;186330
+2007-09;Palau;0
+2007-10;Santa Teresa;
+2007-11;Porto Ferraio;0
+2007-12;Toulon;34694
+2007-12;Golgo Aranci;0
+2008-05;Propriano;3801
+2008-06;Piombino;586
+2008-07;Marseille;161425
+2008-07;Toulon;181803
+2008-09;Santa Teresa;36621
+2008-10;Porto-Vecchio;5905
+2008-10;Santa Teresa;15248
+2008-11;L'Ile Rousse;2899
+2008-12;Bastia;58409
+2008-12;Toulon;39108
+2009-05;CIVITA VECCHIA;0
+2009-05;Palau;0
+2009-06;L'Ile Rousse;15417
+2009-09;Piombino;0
+2009-10;Bastia;117138
+2009-10;Nice;40820
+2009-11;Porto Ferraio;0
+2009-12;Propriano;2373
+2010-01;Nice;9852
+2010-01;Golgo Aranci;0
+2010-08;L'Ile Rousse;151486
+2010-08;Nice;314699
+2010-11;Marseille;29616
+2010-12;Ajaccio;31763
+2011-01;Calvi;1636
+2011-02;Toulon;37415
+2011-02;Porto Ferraio;0
+2011-03;Porto-Vecchio;1108
+2011-04;Bonifacio;19350
+2011-04;Porto Torres;694
+2011-08;Bastia;573342
+2011-08;Calvi;41538
+2011-08;Santa Teresa;52040
+2011-09;Bonifacio;35704
+2011-10;Nice;35055
+2011-10;Palau;0
+2011-12;Toulon;38807
+2012-02;Porto Torres;168
+2012-02;Genes;0
+2012-03;Marseille;36059
+2012-04;Bastia;123884
+2012-04;Marseille;75977
+2012-05;Toulon;126064
+2012-05;Palau;0
+2012-09;Savona;47952
+2012-10;Piombino;0
+2013-03;Porto Torres;273
+2013-03;CIVITA VECCHIA;0
+2007-03;L'Ile Rousse;1798
+2007-07;Marseille;158808
+2007-08;Nice;245119
+2007-09;Marseille;91384
+2007-10;Palau;
+2007-11;L'Ile Rousse;3385
+2007-11;Marseille;35741
+2007-12;Piombino;0
+2008-02;Toulon;33296
+2008-04;L'Ile Rousse;11875
+2008-05;Porto Torres;1653
+2008-07;Nice;198957
+2008-10;Nice;33742
+2008-10;Genes;0
+2008-11;Marseille;32519
+2008-11;Golgo Aranci;0
+2009-01;Bastia;44103
+2009-01;L'Ile Rousse;1556
+2009-01;Livourne;5306
+2009-01;Savona;807
+2009-06;Santa Teresa;27269
+2009-06;Porto Ferraio;0
+2009-09;Porto Torres;1211
+2009-09;Santa Teresa;34527
+2009-09;CIVITA VECCHIA;0
+2009-10;Bonifacio;14472
+2009-10;Santa Teresa;14472
+2009-11;Savona;52
+2010-02;Calvi;5272
+2010-02;CIVITA VECCHIA;0
+2010-04;Porto Torres;564
+2010-05;Santa Teresa;29528
+2010-07;Santa Teresa;35296
+2010-08;Piombino;15095
+2010-10;Bastia;109845
+2010-11;Porto-Vecchio;2836
+2011-03;Piombino;0
+2003-01;Palau;0
+2003-02;Marseille;33193
+2003-06;Piombino;0
+2003-07;Toulon;87990
+2003-11;CIVITA VECCHIA;0
+2003-12;CIVITA VECCHIA;0
+2004-02;Porto-Vecchio;3009
+2004-06;Calvi;15511
+2004-07;Bastia;440662
+2004-07;L'Ile Rousse;50607
+2004-12;Ajaccio;25502
+2004-12;Nice;13760
+2004-12;Porto Ferraio;0
+2005-01;Piombino;0
+2005-02;Bonifacio;4564
+2005-02;Santa Teresa;4564
+2005-06;Palau;0
+2005-07;Calvi;56087
+2005-08;Porto Torres;1254
+2005-10;Bonifacio;12118
+2005-10;Marseille;23863
+2005-10;Santa Teresa;12118
+2005-12;Livourne;5674
+2006-01;Porto-Vecchio;2754
+2006-01;Nice;9196
+2006-01;Genes;0
+2006-05;Piombino;0
+2006-08;L'Ile Rousse;121642
+2006-10;CIVITA VECCHIA;0
+2006-12;Ajaccio;28242
+2006-12;Toulon;33491
+2006-12;Porto Torres;292
+2007-02;Santa Teresa;5348
+2011-06;Marseille;103906
+2011-06;Toulon;138355
+2011-08;Savona;91255
+2011-09;Ajaccio;136159
+2011-09;CIVITA VECCHIA;0
+2012-01;Toulon;27476
+2012-02;Piombino;0
+2012-04;Porto Torres;892
+2012-04;Genes;0
+2012-07;Golgo Aranci;0
+2012-07;Porto Ferraio;0
+2012-08;Bonifacio;49827
+2012-08;Calvi;51318
+2012-08;Golgo Aranci;0
+2012-10;L'Ile Rousse;6307
+2012-11;Livourne;8092
+2012-11;Genes;0
+2012-11;CIVITA VECCHIA;0
+2013-01;Ajaccio;22717
+2013-01;Genes;0
+2013-01;Porto Ferraio;0
+2013-02;L'Ile Rousse;2431
+2013-03;L'Ile Rousse;2751
+2007-03;Toulon;27236
+2007-05;Porto-Vecchio;6997
+2007-06;Bonifacio;32019
+2007-06;Propriano;8569
+2007-06;Savona;34822
+2007-07;Ajaccio;183910
+2007-08;Genes;78820
+2007-11;Piombino;0
+2008-01;Santa Teresa;4938
+2008-02;L'Ile Rousse;1472
+2008-02;Nice;10860
+2008-02;Savona;2509
+2008-03;Ajaccio;21962
+2008-05;Calvi;6396
+2008-07;Porto Torres;498
+2008-08;Genes;92971
+2008-08;Piombino;2360
+2008-11;Calvi;2336
+2008-11;Porto-Vecchio;2148
+2009-01;Bonifacio;4505
+2009-05;Calvi;13710
+2009-05;Toulon;104422
+2009-06;Livourne;81610
+2009-12;CIVITA VECCHIA;0
+2009-12;Palau;0
+2010-02;Propriano;1318
+2010-03;Porto Torres;119
+2010-05;Palau;0
+2010-06;Toulon;143942
+2010-06;Livourne;76641
+2010-10;Palau;0
+2011-01;L'Ile Rousse;2387
+2011-01;Propriano;1891
+2011-02;Propriano;3131
+2011-02;Savona;2039
+2011-02;Santa Teresa;5001
+2011-04;L'Ile Rousse;15556
+2003-03;Propriano;1930
+2003-05;Ajaccio;68545
+2003-05;L'Ile Rousse;10804
+2003-06;Ajaccio;82534
+2003-06;Porto-Vecchio;8699
+2003-07;Golgo Aranci;0
+2003-08;Livourne;220747
+2003-09;Santa Teresa;40088
+2003-12;Bastia;45738
+2004-01;Ajaccio;19539
+2004-03;Ajaccio;16653
+2004-03;Bonifacio;6617
+2004-06;Porto Ferraio;0
+2004-07;Porto-Vecchio;15842
+2004-08;Calvi;54141
+2004-09;Savona;35737
+2005-02;Palau;0
+2005-04;Toulon;61183
+2005-06;Bonifacio;32417
+2005-08;Bastia;592872
+2005-08;Calvi;70560
+2005-08;Marseille;206388
+2005-08;Piombino;0
+2005-12;Calvi;268
+2005-12;Marseille;38973
+2006-03;Bastia;37229
+2006-04;Calvi;10265
+2006-05;Marseille;74224
+2006-06;Bastia;247195
+2006-06;Marseille;82518
+2006-06;Livourne;73459
+2006-07;Propriano;21065
+2006-07;Palau;1194
+2006-08;Savona;99259
+2006-09;Piombino;0
+2006-10;Toulon;46049
+2006-10;Piombino;0
+2006-11;Nice;16822
+2006-12;CIVITA VECCHIA;0
+2011-08;Marseille;255170
+2011-08;Genes;71161
+2011-09;L'Ile Rousse;37676
+2011-11;Porto Torres;263
+2012-02;Bonifacio;4620
+2012-02;Calvi;0
+2012-02;Santa Teresa;4620
+2012-03;Toulon;31148
+2012-05;Ajaccio;98360
+2012-06;Piombino;0
+2012-07;Nice;223618
+2012-09;CIVITA VECCHIA;0
+2012-10;Porto Ferraio;0
+2012-12;Santa Teresa;5120
+2013-01;Bonifacio;4587
+2013-02;Propriano;2301
+2013-02;Marseille;33652
+2013-02;Toulon;26861
+2013-03;Calvi;0
+2013-03;Santa Teresa;6548
+2007-03;Bonifacio;6660
+2007-03;Porto Torres;297
+2007-04;Porto-Vecchio;6732
+2007-04;Genes;0
+2007-07;Nice;195103
+2007-08;Marseille;194532
+2007-09;L'Ile Rousse;28491
+2007-10;L'Ile Rousse;
+2007-10;Porto Ferraio;
+2007-11;Propriano;2370
+2007-12;Calvi;1979
+2007-12;CIVITA VECCHIA;0
+2008-01;Propriano;2145
+2008-01;Genes;0
+2008-05;Toulon;93737
+2008-07;Golgo Aranci;0
+2008-09;Nice;95156
+2009-02;Calvi;
+2009-03;Savona;1404
+2009-05;Marseille;79818
+2009-06;Bonifacio;27269
+2009-06;Propriano;8419
+2009-06;Genes;38550
+2009-08;Porto Torres;1039
+2009-11;Toulon;35159
+2009-12;Ajaccio;32740
+2010-01;Genes;0
+2010-02;Bonifacio;4503
+2010-03;Propriano;1808
+2010-03;Toulon;35394
+2010-05;Livourne;52997
+2010-07;Ajaccio;234732
+2010-07;Marseille;145419
+2010-08;Ajaccio;279277
+2010-08;Genes;93823
+2010-09;Ajaccio;117017
+2010-09;Livourne;80293
+2010-12;Calvi;1434
+2010-12;Porto Torres;291
+2011-02;Marseille;17886
+2011-03;Nice;10749
+2011-04;Marseille;68937
+2003-02;Golgo Aranci;0
+2003-03;Calvi;2580
+2003-11;Toulon;14145
+2004-01;Bonifacio;5085
+2004-01;L'Ile Rousse;1584
+2004-02;Calvi;1428
+2004-06;Livourne;71230
+2004-09;Porto-Vecchio;3283
+2004-12;Savona;1922
+2004-12;Piombino;0
+2004-12;Golgo Aranci;0
+2005-02;Genes;0
+2005-04;Palau;0
+2005-05;Bonifacio;28839
+2005-05;Piombino;0
+2005-06;Bastia;214383
+2005-08;Bonifacio;63425
+2005-08;Propriano;27590
+2005-09;Toulon;81980
+2005-10;Golgo Aranci;0
+2005-12;Savona;1498
+2005-12;Golgo Aranci;0
+2006-06;Bonifacio;32947
+2006-06;Nice;95453
+2006-06;Genes;33914
+2006-06;Savona;36949
+2006-07;Porto Torres;694
+2006-07;Savona;78636
+2006-08;Nice;248083
+2006-11;Propriano;1739
+2006-11;Marseille;34733
+2006-12;Bastia;58682
+2006-12;Santa Teresa;6047
+2006-12;Porto Ferraio;0
+2007-01;Porto-Vecchio;3337
+2007-01;Savona;1319
+2007-01;Palau;0
+2007-02;Propriano;1341
+2011-11;Toulon;29846
+2012-01;Livourne;7211
+2012-02;Palau;0
+2012-03;L'Ile Rousse;2591
+2012-04;Calvi;5619
+2012-05;Genes;0
+2012-05;Santa Teresa;34650
+2012-06;Porto-Vecchio;13007
+2012-07;Livourne;118423
+2012-09;Piombino;0
+2012-10;Santa Teresa;14006
+2012-11;Marseille;42401
+2013-01;Bastia;46302
+2013-04;Porto-Vecchio;6948
+2013-04;Porto Torres;647
+2013-04;Santa Teresa;17904
+2013-05;Bonifacio;30962
+2013-05;Porto-Vecchio;8500
+2013-05;Golgo Aranci;0

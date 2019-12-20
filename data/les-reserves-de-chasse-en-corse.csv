@@ -1,0 +1,54 @@
+nom;commune;type_arrete;code_insee;nb_com;autre;departement;surface_ha;numero_arrete;gestionnaire;geocodage
+MURATO 1;Murato;arrete ministeriel;2B172;1;;2B;210;;FDC 2B;42.5671895141,9.32704854356
+OMITA;Manso;arrete du conseil executif;2B153;1;;2B;1378;07.61;ONF;42.3708830092,8.81890618067
+SANTA GIULIA;Porto-Vecchio;arrete ministeriel;2A247;1;;2A;299;;FDC 2A;41.5924932873,9.25363087024
+GOLFE DE VENTILEGNE;;;;2;Bonifacio, Figari;2A;894;;;
+FIBIA;Palasca;arrete ministeriel;2B199;1;;2B;774;;FDC 2B;42.63006979,9.05733396893
+KYRIE ELEISON;Ghisoni;arrete ministeriel;2B124;1;;2B;804;;FDC 2B;42.0908261041,9.21026781601
+GOLFE DE PORTO;;;;7;Ota, Calenzana, Piana, Serriera, Partinello, Osani, Galéria;2A;1304;;;
+ASCO;Asco;arrete du conseil executif;2B023;1;;2B;3301;06.16;ONCFS et Commune d'Asco;42.4346334244,8.99704854725
+EMBOUCHURE DU TAVIGNANO;;;;2;Aléria, Ghisonaccia;2B;1640;;;
+ROCCAPINA;Monacia-d'Aullène;arrete prefectoral;2A163;2;Monacia-d'Aullène, Sartène;2A;143;92-1250 ( b ) modifié par 04-1070;FDC 2A;41.5249319364,9.01194250381
+GUAGNO;Guagno;arrete du conseil executif;2A131;1;;2A;926;10.06;FDC 2A;42.1783646694,8.98389627863
+GOLFE D'AJACCIO;;;;5;Pietrosella, Coti-Chiavari, Albitreccia, Grosseto-Prugna, Ajaccio;2A;19995;;;
+MURATO 2;Murato;arrete du conseil executif;2B172;1;;2B;77;sept-45;FDC 2B;42.5671895141,9.32704854356
+CASACCIE;Zonza;arrete ministeriel;2A362;1;;2A;43;;FDC 2A;41.7213730193,9.26624005547
+GROTT'AL MARE;Barrettali;arrete ministeriel;2B030;1;;2B;307;;FDC 2B;42.8731830827,9.36073943184
+CASTELLUCCIO;Ajaccio;arrete ministeriel;2A004;1;;2A;174;;FDC 2A;41.9347926638,8.70132275974
+BRUZZI;Pianottoli-Caldarello;arrete prefectoral;2A215;1;;2A;85;92-1250 ( c );FDC 2A;41.5046258305,9.04899145818
+CASABIANDA;Aléria;arrete ministeriel;2B009;1;;2B;1774;;Sans gestionnaire;42.1059105058,9.495645512
+IFANA;Santo Pietro di Tenda;arrete ministeriel;2B301;2;San-Gavino-di-Tenda, Santo-Pietro-di-Tenda;2B;1303;;FDC 2B;42.6530617344,9.15172283351
+VACCIA CHIUVONU;Aullène;arrete du conseil executif;2A024;1;;2A;147;1102988;FDC 2A;41.8067898223,9.09266751602
+VALLICIONI;Castiglione;arrete ministeriel;2B081;1;;2B;234;;FDC 2B;42.4094045132,9.11404108561
+AULLÈNE-TACCA;Aullène;arrete du conseil executif;2A024;1;;2A;443;1102989;FDC 2A;41.8067898223,9.09266751602
+VAL D'ESE;Ciamannacce;arrete du conseil executif;2A089;1;;2A;529;1205341;FDC 2A;41.9728664628,9.13846288557
+MENTA;Quenza;arrete ministeriel;2A254;1;;2A;1019;;FDC 2A;41.8077584567,9.2009533879
+VALLECALE;Vallecalle;arrete ministeriel;2B333;1;;2B;86;204;FDC 2B;42.5997369417,9.33661797877
+CANALI PANTANICCI;Tolla;arrete ministeriel;2A326;1;;2A;151;;FDC 2A;41.9682067011,8.9690159805
+GOLFE DE PORTO;;;;7;Ota, Calenzana, Piana, Serriera, Partinello, Osani, Galéria;;16068;;;
+CERBICALE;Porto-vecchio;;2A247;1;;2A;5486;;;41.5924932873,9.25363087024
+MANGIA SANGUE ESO;Serra-di-Ferro;arrete ministeriel;2A276;1;;2A;119;;FDC 2A;41.7410474334,8.81250812436
+MILELLI;Ajaccio;arrete prefectoral;2A004;1;;2A;12;94-2148;FDC 2A;41.9347926638,8.70132275974
+SAPARGHIONU;Olivese;arrete prefectoral;2A186;1;;2A;358;92-1250 (d);FDC 2A;41.8404362861,9.06885180924
+LINGUIZZETTA;Linguizzetta;arrete ministeriel;2B143;1;;2B;350;;FDC 2B;42.2176450793,9.51024497679
+PIEDICORTE-DI-GAGGIO;Piedicorte-di-Gaggio;arrete ministeriel;2B218;1;;2B;1240;2164;FDC 2B;42.2145192461,9.32336450937
+DOLLE WAGNER;Bonifacio;arrete ministeriel;2A041;2;Bonifacio, Figari;2A;752;;FDC 2A;41.4354987425,9.18514890376
+BONIFACIO;Bonifacio;;2A041;1;;2A;9015;;;41.4354987425,9.18514890376
+PRESQU'ILE DE SAN DAMIANO;Borgo;arrete ministeriel;2B042;2;Borgo, Biguglia;2B;116;;FDC 2B;42.573930097,9.45690314359
+PASCIONI;Penta-di-Casinca;arrete ministeriel;2B207;2;Penta-di-Casinca, Castellare-di-Casinca;2B;286;;FDC 2B;42.4548433729,9.49604243043
+OMIGNA;Cargèse;arrete ministeriel;2A065;1;;2A;76;;FDC 2A;42.1544254567,8.62659836115
+CHIALZINA;Belvedere-Campomoro;arrete prefectoral;2A035;1;;2A;61;01-1385;FDC 2A;41.6174105713,8.82330409363
+MONTICELLO;Monticello;arrete ministeriel;2B168;1;;2B;84;;FDC 2B;42.6216923341,8.96127656939
+PASCIU;Casamaccioli;arrete prefectoral;2B073;1;;2B;210;92.213;FDC 2B;42.2828810078,8.9950833348
+TOGNA;Sari-Solenzara;arrete prefectoral;2A269;1;;2A;201;92-1250 (f);FDC 2A;41.8133599634,9.35220683826
+FIUMINALI;Piana;arrete prefectoral;2A212;1;;2A;521;01-1384 mofifié par 03-1012;FDC 2A;42.2260344023,8.62798195907
+GOLFE DE PORTO-VECCHIO;;;;3;Lecci, Porto-Vecchio, Zonza;2A;1135;;;
+SIVOLANO;Bastelica;arrete ministeriel;2A031;1;;2A;794;;FDC 2A;41.988063407,9.04861808353
+GROT'ALBE;Olmeta-di-Capocorso;arrete ministeriel;2B187;1;;2B;260;;FDC 2B;42.766973441,9.37798697409
+EMBOUCHURE DU GOLO;;;;3;Borgo, Biguglia, Lucciana;2B;2250;;;
+RUTALI;Rutali;arrete prefectoral;2B265;1;;2B;381;82/ III6;FDC 2B;42.5827324452,9.38160373146
+FARINOLE;Farinole;arrete prefectoral;2B109;1;;2B;212;93/121;FDC 2B;42.7298003144,9.36530466703
+BAVELLA SAMBUCCU;Sari-Solenzara;arrete du conseil executif;2A269;4;Quenza, Sari-Solenzara, Conca, Zonza;2A;1967;08.11;ONCFS;41.8133599634,9.35220683826
+TARTAGINE;Olmi-Cappella;arrete du conseil executif;2B190;2;Olmi-Cappella, Mausoléo;2B;2350;08.39;ONCFS et ONF;42.5203092978,9.02008756946
+PRUNO;Figari;arrete ministeriel;2A114;1;;2A;206;;FDC 2A;41.5163043789,9.12059415829
+FOCE VIZZAVONA;Boccognano;arrete prefectoral;2A040;2;Bocognano, Vivario;2A;530;92-1250 (e);FDC 2A;42.0887432861,9.07100445274
